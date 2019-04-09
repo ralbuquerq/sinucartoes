@@ -1,9 +1,63 @@
 # SinuCartões
-O maior campeonato internacional de sinuca da equipe de cartões
+O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
+
+> Dúvidas e sugestões favor abrir uma issue
+
+# Tabela de Jogos
+
+> Gerada randomicamente por https://tabelas.alhur.es/
+
+| Jogador 1          | Jogador 2          | Vencedor           | Vantagem
+| ------------------ | ------------------ | ------------------ | :------:
+| Branco             | Umbelino           |                    | [ ]
+| Carlos             | Rodrigo            |                    | [ ]
+| Diego              | Ricardo            |                    | [ ]
+| Felipe             | Rafael Albuquerque |                    | [ ]
+| Fernando           | Pedro              |                    | [ ]
+| Giovane Derenevick | Nil                |                    | [ ]
+| Giovanni Beltrame  | Maurício           |                    | [ ]
+| Lucas Marques      | Lucas Snow         |                    | [ ]
+| Branco             | Rodrigo            |                    | [ ]
+| Umbelino           | Ricardo            |                    | [ ]
+| Carlos             | Rafael Albuquerque |                    | [ ]
+| Diego              | Pedro              |                    | [ ]
+| Felipe             | Nil                |                    | [ ]
+| Fernando           | Maurício           |                    | [ ]
+| Giovane Derenevick | Lucas Snow         |                    | [ ]
+| Giovanni Beltrame  | Lucas Marques      |                    | [ ]
+| Branco             | Ricardo            |                    | [ ]
+| Rodrigo            | Rafael Albuquerque |                    | [ ]
+| Umbelino           | Pedro              |                    | [ ]
+| Carlos             | Nil                |                    | [ ]
+| Diego              | Maurício           |                    | [ ]
+| Felipe             | Lucas Snow         |                    | [ ]
+| Fernando           | Lucas Marques      |                    | [ ]
+| Giovane Derenevick | Giovanni Beltrame  |                    | [ ]
+
+# Classificação Atual
+
+| PT | VT | Jogador
+| -: | -: | -------
+| 00 | 00 | Branco
+| 00 | 00 | Carlos
+| 00 | 00 | Diego
+| 00 | 00 | Felipe
+| 00 | 00 | Fernando
+| 00 | 00 | Giovane Derenevick
+| 00 | 00 | Giovanni Beltrame
+| 00 | 00 | Lucas Marques
+| 00 | 00 | Lucas Snow
+| 00 | 00 | Maurício
+| 00 | 00 | Nil
+| 00 | 00 | Pedro
+| 00 | 00 | Rafael Albuquerque
+| 00 | 00 | Ricardo
+| 00 | 00 | Rodrigo
+| 00 | 00 | Umbelino
 
 # Formato
 ## 1º Classificatória
-Primeiramente todos os jogadores irão jogar de 3-4 vezes (a ser definido) pontuando para a fase de mata-mata
+Primeiramente todos os jogadores irão jogar de 3 vezes pontuando para a fase de mata-mata
 
 ### Pontuação:
 A cada partida serão distribuidos 3 pontos entre os jogadores. Se no final da partida nenhuma bola ficar na mesa fica configurado vitória sem vantagem.
@@ -43,16 +97,3 @@ jogadores.sort((j1, j2) => {
     return j2.vitorias - j1.vitorias;
 });
 ```
-
-# Inscritos
-
-Branco
-Diego
-Felipe
-Fernando
-Giovanni Beltrame
-Lucas Marques
-Lucas Snow
-Rafael Albuquerque
-Ricardo
-Umbelino
