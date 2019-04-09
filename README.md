@@ -3,7 +3,8 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 > Dúvidas e sugestões favor abrir uma issue
 
-# Tabela de Jogos
+
+## Tabela das Partidas
 
 > Gerada randomicamente por https://tabelas.alhur.es/
 
@@ -34,7 +35,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Fernando           | Lucas Marques      |                    | [ ]
 | Giovane Derenevick | Giovanni Beltrame  |                    | [ ]
 
-# Classificação Atual
+## Classificação Atual
 
 | PT | VT | Jogador
 | -: | -: | -------
@@ -55,11 +56,14 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 00 | 00 | Rodrigo
 | 00 | 00 | Umbelino
 
-# Formato
-## 1º Classificatória
+## Regras
+**As regras da partida devem ser combinadas entre os jogadores**
+
+## Formato do campeonado
+### 1º Classificatória
 Primeiramente todos os jogadores irão jogar de 3 vezes pontuando para a fase de mata-mata
 
-### Pontuação:
+#### Pontuação:
 A cada partida serão distribuidos 3 pontos entre os jogadores. Se no final da partida nenhuma bola ficar na mesa fica configurado vitória sem vantagem.
 
 Tipo | Pontuação
@@ -80,10 +84,10 @@ if (numeroDeBolasNaMesa > 0) {
 ```
 
 
-## 2º Mata-mata
+### 2º Mata-mata
 Dependendo do número de inscritos teremos final e semi final ou apenas final.
 
-### Critérios de classificação:
+#### Critérios de classificação:
 
 1. Pontuação
 2. Número de vitórias
