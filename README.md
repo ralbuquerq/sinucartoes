@@ -24,7 +24,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Diego              | Pedro              |                    | [ ]
 | Felipe             | Nil                |                    | [ ]
 | Fernando           | Maurício           |                    | [ ]
-| Giovane Derenevick | Lucas Snow         |                    | [ ]
+| Giovane Derenevick | Lucas Snow         | Lucas Snow         | [X]
 | Giovanni Beltrame  | Lucas Marques      |                    | [ ]
 | Branco             | Ricardo            |                    | [ ]
 | Rodrigo            | Rafael Albuquerque |                    | [ ]
@@ -39,22 +39,22 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | PT | VT | Jogador
 | -: | -: | -------
-| 00 | 00 | Branco
-| 00 | 00 | Carlos
-| 00 | 00 | Diego
-| 00 | 00 | Felipe
-| 00 | 00 | Fernando
-| 00 | 00 | Giovane Derenevick
-| 00 | 00 | Giovanni Beltrame
-| 00 | 00 | Lucas Marques
-| 00 | 00 | Lucas Snow
-| 00 | 00 | Maurício
-| 00 | 00 | Nil
-| 00 | 00 | Pedro
-| 00 | 00 | Rafael Albuquerque
-| 00 | 00 | Ricardo
-| 00 | 00 | Rodrigo
+| 03 | 01 | Lucas Snow
 | 00 | 00 | Umbelino
+| 00 | 00 | Rodrigo
+| 00 | 00 | Ricardo
+| 00 | 00 | Rafael Albuquerque
+| 00 | 00 | Pedro
+| 00 | 00 | Nil
+| 00 | 00 | Maurício
+| 00 | 00 | Lucas Marques
+| 00 | 00 | Giovanni Beltrame
+| 00 | 00 | Giovane Derenevick
+| 00 | 00 | Fernando
+| 00 | 00 | Felipe
+| 00 | 00 | Diego
+| 00 | 00 | Carlos
+| 00 | 00 | Branco
 
 ## Regras
 **As regras da partida devem ser combinadas entre os jogadores**
