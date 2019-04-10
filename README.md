@@ -11,7 +11,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Jogador 1          | Jogador 2          | Vencedor           | Vantagem
 | ------------------ | ------------------ | ------------------ | :------:
 | Branco             | Umbelino           |                    | [ ]
-| Carlos             | Rodrigo            |                    | [ ]
+| Carlos             | Rodrigo            | Rodrigo            | [X]
 | Diego              | Ricardo            |                    | [ ]
 | Felipe             | Rafael Albuquerque |                    | [ ]
 | Fernando           | Pedro              |                    | [ ]
@@ -39,11 +39,11 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | PT | VT | Jogador
 | -: | -: | -------
+| 03 | 01 | Rodrigo
 | 03 | 01 | Lucas Snow
 | 02 | 01 | Giovanni Beltrame
 | 01 | 00 | Giovane Derenevick
 | 00 | 00 | Umbelino
-| 00 | 00 | Rodrigo
 | 00 | 00 | Ricardo
 | 00 | 00 | Rafael Albuquerque
 | 00 | 00 | Pedro
