@@ -29,7 +29,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Branco             | Ricardo            |                    | [ ]
 | Rodrigo            | Rafael Albuquerque |                    | [ ]
 | Umbelino           | Pedro              |                    | [ ]
-| Carlos             | Nil                |                    | [ ]
+| Carlos             | Nil                | Nil                | [X]
 | Diego              | Maurício           |                    | [ ]
 | Felipe             | Lucas Snow         |                    | [ ]
 | Fernando           | Lucas Marques      |                    | [ ]
@@ -40,6 +40,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | PT | VT | Jogador
 | -: | -: | -------
 | 03 | 01 | Rodrigo
+| 03 | 01 | Nil
 | 03 | 01 | Lucas Snow
 | 03 | 01 | Fernando
 | 02 | 01 | Pedro
@@ -49,7 +50,6 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 00 | 00 | Umbelino
 | 00 | 00 | Ricardo
 | 00 | 00 | Rafael Albuquerque
-| 00 | 00 | Nil
 | 00 | 00 | Lucas Marques
 | 00 | 00 | Felipe
 | 00 | 00 | Diego
