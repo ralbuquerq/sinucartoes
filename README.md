@@ -33,13 +33,15 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Diego              | Maurício           |                    | [ ]
 | Felipe             | Lucas Snow         |                    | [ ]
 | Fernando           | Lucas Marques      |                    | [ ]
-| Giovane Derenevick | Giovanni Beltrame  |                    | [ ]
+| Giovane Derenevick | Giovanni Beltrame  | Giovanni Beltrame  | [ ]
 
 ## Classificação Atual
 
 | PT | VT | Jogador
 | -: | -: | -------
 | 03 | 01 | Lucas Snow
+| 02 | 01 | Giovanni Beltrame
+| 01 | 00 | Giovane Derenevick
 | 00 | 00 | Umbelino
 | 00 | 00 | Rodrigo
 | 00 | 00 | Ricardo
@@ -48,8 +50,6 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 00 | 00 | Nil
 | 00 | 00 | Maurício
 | 00 | 00 | Lucas Marques
-| 00 | 00 | Giovanni Beltrame
-| 00 | 00 | Giovane Derenevick
 | 00 | 00 | Fernando
 | 00 | 00 | Felipe
 | 00 | 00 | Diego
