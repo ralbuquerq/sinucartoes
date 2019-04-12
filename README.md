@@ -27,7 +27,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Carlos      | Nil         | Nil         | [X]
 | Diego       | Maurício    | Maurício    | [X]
 | Felipe      | Snow        | Snow        | [X]
-| Fernando    | Marques     |             | [ ]
+| Fernando    | Marques     | Fernando    | [X]
 | Derenevick  | Beltrame    | Beltrame    | [ ]
 
 ## Classificação Atual
@@ -38,9 +38,9 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 06 | 02 | Nil
 | 06 | 02 | Maurício
 | 06 | 02 | Marques
+| 06 | 02 | Fernando
 | 03 | 01 | Rodrigo
 | 03 | 01 | Ricardo
-| 03 | 01 | Fernando
 | 03 | 01 | Beltrame
 | 03 | 01 | Albuquerque
 | 02 | 01 | Pedro
