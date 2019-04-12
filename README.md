@@ -5,7 +5,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
-| Branco      | Umbelino    |             | [ ]
+| Branco      | Umbelino    | Umbelino    | [ ]
 | Carlos      | Rodrigo     | Rodrigo     | [X]
 | Diego       | Ricardo     | Ricardo     | [X]
 | Felipe      | Albuquerque | Felipe      | [X]
@@ -43,11 +43,11 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 06 | 02 | Albuquerque
 | 05 | 02 | Felipe
 | 04 | 02 | Pedro
+| 03 | 01 | Umbelino
 | 03 | 01 | Rodrigo
+| 03 | 01 | Branco
 | 03 | 01 | Beltrame
-| 02 | 01 | Branco
 | 02 | 00 | Derenevick
-| 01 | 00 | Umbelino
 | 00 | 00 | Diego
 | 00 | 00 | Carlos
 
