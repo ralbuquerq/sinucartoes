@@ -1,63 +1,58 @@
 # SinuCartões
 O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
 
-> Dúvidas e sugestões favor abrir uma issue
-
-
 ## Tabela das Partidas
 
-> Gerada randomicamente por https://tabelas.alhur.es/
-
-| Jogador 1          | Jogador 2          | Vencedor           | Vantagem
-| ------------------ | ------------------ | ------------------ | :------:
-| Branco             | Umbelino           |                    | [ ]
-| Carlos             | Rodrigo            | Rodrigo            | [X]
-| Diego              | Ricardo            | Ricardo            | [X]
-| Felipe             | Rafael Albuquerque |                    | [ ]
-| Fernando           | Pedro              | Pedro              | [ ]
-| Giovane Derenevick | Nil                | Nil                | [ ]
-| Giovanni Beltrame  | Maurício           | Maurício           | [ ]
-| Lucas Marques      | Lucas Snow         |                    | [ ]
-| Branco             | Rodrigo            |                    | [ ]
-| Umbelino           | Ricardo            |                    | [ ]
-| Carlos             | Rafael Albuquerque |                    | [ ]
-| Diego              | Pedro              |                    | [ ]
-| Felipe             | Nil                | Felipe             | [ ]
-| Fernando           | Maurício           | Fernando           | [ ]
-| Giovane Derenevick | Lucas Snow         | Lucas Snow         | [X]
-| Giovanni Beltrame  | Lucas Marques      |                    | [ ]
-| Branco             | Ricardo            |                    | [ ]
-| Rodrigo            | Rafael Albuquerque |                    | [ ]
-| Umbelino           | Pedro              |                    | [ ]
-| Carlos             | Nil                | Nil                | [X]
-| Diego              | Maurício           | Maurício           | [X]
-| Felipe             | Lucas Snow         | Lucas Snow         | [X]
-| Fernando           | Lucas Marques      |                    | [ ]
-| Giovane Derenevick | Giovanni Beltrame  | Giovanni Beltrame  | [ ]
+| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
+| ----------- | ----------- | ----------- | :------:
+| Branco      | Umbelino    |             | [ ]
+| Carlos      | Rodrigo     | Rodrigo     | [X]
+| Diego       | Ricardo     | Ricardo     | [X]
+| Felipe      | Albuquerque |             | [ ]
+| Fernando    | Pedro       | Pedro       | [ ]
+| Derenevick  | Nil         | Nil         | [ ]
+| Beltrame    | Maurício    | Maurício    | [ ]
+| Marques     | Snow        |             | [ ]
+| Branco      | Rodrigo     |             | [ ]
+| Umbelino    | Ricardo     |             | [ ]
+| Carlos      | Albuquerque |             | [ ]
+| Diego       | Pedro       |             | [ ]
+| Felipe      | Nil         | Felipe      | [ ]
+| Fernando    | Maurício    | Fernando    | [ ]
+| Derenevick  | Snow        | Snow        | [X]
+| Beltrame    | Marques     |             | [ ]
+| Branco      | Ricardo     |             | [ ]
+| Rodrigo     | Albuquerque |             | [ ]
+| Umbelino    | Pedro       |             | [ ]
+| Carlos      | Nil         | Nil         | [X]
+| Diego       | Maurício    | Maurício    | [X]
+| Felipe      | Snow        | Snow        | [X]
+| Fernando    | Marques     |             | [ ]
+| Derenevick  | Beltrame    | Beltrame    | [ ]
 
 ## Classificação Atual
 
 | PT | VT | Jogador
 | -: | -: | -------
+| 06 | 02 | Snow
 | 06 | 02 | Nil
 | 06 | 02 | Maurício
-| 06 | 02 | Lucas Snow
 | 03 | 01 | Rodrigo
 | 03 | 01 | Ricardo
-| 03 | 01 | Giovanni Beltrame
 | 03 | 01 | Fernando
+| 03 | 01 | Beltrame
 | 02 | 01 | Pedro
 | 02 | 01 | Felipe
-| 02 | 00 | Giovane Derenevick
+| 02 | 00 | Derenevick
 | 00 | 00 | Umbelino
-| 00 | 00 | Rafael Albuquerque
-| 00 | 00 | Lucas Marques
+| 00 | 00 | Marques
 | 00 | 00 | Diego
 | 00 | 00 | Carlos
 | 00 | 00 | Branco
+| 00 | 00 | Albuquerque
 
 ## Regras
-**As regras da partida devem ser combinadas entre os jogadores**
+**As regras de cada partida devem ser combinadas entre os jogadores**
 
 ## Formato do campeonado
 ### 1º Classificatória
