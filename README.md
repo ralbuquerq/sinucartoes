@@ -30,7 +30,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Rodrigo            | Rafael Albuquerque |                    | [ ]
 | Umbelino           | Pedro              |                    | [ ]
 | Carlos             | Nil                | Nil                | [X]
-| Diego              | Maurício           |                    | [ ]
+| Diego              | Maurício           | Maurício           | [X]
 | Felipe             | Lucas Snow         |                    | [ ]
 | Fernando           | Lucas Marques      |                    | [ ]
 | Giovane Derenevick | Giovanni Beltrame  | Giovanni Beltrame  | [ ]
@@ -40,6 +40,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | PT | VT | Jogador
 | -: | -: | -------
 | 05 | 02 | Nil
+| 04 | 01 | Maurício
 | 03 | 01 | Rodrigo
 | 03 | 01 | Ricardo
 | 03 | 01 | Lucas Snow
@@ -47,7 +48,6 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 02 | 01 | Pedro
 | 02 | 01 | Giovanni Beltrame
 | 02 | 00 | Giovane Derenevick
-| 01 | 00 | Maurício
 | 00 | 00 | Umbelino
 | 00 | 00 | Rafael Albuquerque
 | 00 | 00 | Lucas Marques
