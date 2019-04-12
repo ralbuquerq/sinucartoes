@@ -8,7 +8,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Branco      | Umbelino    |             | [ ]
 | Carlos      | Rodrigo     | Rodrigo     | [X]
 | Diego       | Ricardo     | Ricardo     | [X]
-| Felipe      | Albuquerque |             | [ ]
+| Felipe      | Albuquerque | Felipe      | [X]
 | Fernando    | Pedro       | Pedro       | [ ]
 | Derenevick  | Nil         | Nil         | [ ]
 | Beltrame    | Maurício    | Maurício    | [ ]
@@ -41,10 +41,10 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 06 | 02 | Marques
 | 06 | 02 | Fernando
 | 06 | 02 | Albuquerque
+| 05 | 02 | Felipe
 | 04 | 02 | Pedro
 | 03 | 01 | Rodrigo
 | 03 | 01 | Beltrame
-| 02 | 01 | Felipe
 | 02 | 01 | Branco
 | 02 | 00 | Derenevick
 | 01 | 00 | Umbelino
