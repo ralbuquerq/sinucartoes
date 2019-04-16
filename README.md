@@ -28,15 +28,14 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
-| Derenevick  | Beltrame    |             | [ ]
-| Pedro       | Beltrame    |             | [ ]
-| Derenevick  | Rodrigo     |             | [ ]
-| Diego       | Umbelino    |             | [ ]
-| Carlos      | Felipe      |             | [ ]
+| Pedro       | Marques     |             | [ ]
+| Fernando    | Maurício    |             | [ ]
+| Derenevick  | Nil         |             | [ ]
+| Beltrame    | Snow        |             | [ ]
 | Ricardo     | Albuquerque |             | [ ]
-| Snow        | Branco      |             | [ ]
-| Nil         | Fernando    |             | [ ]
-| Maurício    | Marques     |             | [ ]
+| Branco      | Carlos      |             | [ ]
+| Felipe      | Diego       |             | [ ]
+| Umbelino    | Rodrigo     |             | [ ]
 
 ### "Primeira" rodada
 
@@ -65,6 +64,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Diego       | Maurício    | Maurício    | [X]
 | Felipe      | Snow        | Snow        | [X]
 | Fernando    | Marques     | Fernando    | [X]
+| Derenevick  | Beltrame    | Beltrame    | [ ]
 
 ## Regras
 **As regras de cada partida devem ser combinadas entre os jogadores**
