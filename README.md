@@ -13,7 +13,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Derenevick  | Nil         | Nil         | [ ]
 | Beltrame    | Maurício    | Maurício    | [ ]
 | Marques     | Snow        | Marques     | [X]
-| Branco      | Rodrigo     |             | [ ]
+| Branco      | Rodrigo     | Branco      | [X]
 | Umbelino    | Ricardo     | Ricardo     | [X]
 | Carlos      | Albuquerque | Albuquerque | [X]
 | Diego       | Pedro       |             | [ ]
@@ -40,12 +40,12 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 06 | 02 | Maurício
 | 06 | 02 | Marques
 | 06 | 02 | Fernando
+| 06 | 02 | Branco
 | 06 | 02 | Albuquerque
 | 05 | 02 | Felipe
 | 04 | 02 | Pedro
 | 03 | 01 | Umbelino
 | 03 | 01 | Rodrigo
-| 03 | 01 | Branco
 | 03 | 01 | Beltrame
 | 02 | 00 | Derenevick
 | 00 | 00 | Diego
