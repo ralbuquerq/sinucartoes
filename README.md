@@ -3,6 +3,8 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 ## Tabela das Partidas
 
+### "Primeira" rodada
+
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
 | Branco      | Umbelino    | Umbelino    | [ ]
@@ -28,7 +30,20 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Diego       | Maurício    | Maurício    | [X]
 | Felipe      | Snow        | Snow        | [X]
 | Fernando    | Marques     | Fernando    | [X]
-| Derenevick  | Beltrame    | Beltrame    | [ ]
+
+### "Segunda" rodada
+
+| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
+| ----------- | ----------- | ----------- | :------:
+| Derenevick  | Beltrame    |             | [ ]
+| Pedro       | Beltrame    |             | [ ]
+| Derenevick  | Rodrigo     |             | [ ]
+| Diego       | Umbelino    |             | [ ]
+| Carlos      | Felipe      |             | [ ]
+| Ricardo     | Albuquerque |             | [ ]
+| Snow        | Branco      |             | [ ]
+| Nil         | Fernando    |             | [ ]
+| Maurício    | Marques     |             | [ ]
 
 ## Classificação Atual
 
