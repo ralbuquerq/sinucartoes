@@ -1,7 +1,42 @@
 # SinuCartões
 O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
 
+## Classificação Atual
+
+| PT | VT | Jogador
+| -: | -: | -------
+| 07 | 03 | Pedro
+| 07 | 02 | Ricardo
+| 06 | 02 | Snow
+| 06 | 02 | Nil
+| 06 | 02 | Maurício
+| 06 | 02 | Marques
+| 06 | 02 | Fernando
+| 06 | 02 | Branco
+| 06 | 02 | Albuquerque
+| 05 | 02 | Felipe
+| 03 | 01 | Umbelino
+| 03 | 01 | Rodrigo
+| 03 | 01 | Beltrame
+| 02 | 00 | Derenevick
+| 00 | 00 | Diego
+| 00 | 00 | Carlos
+
 ## Tabela das Partidas
+
+### "Segunda" rodada
+
+| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
+| ----------- | ----------- | ----------- | :------:
+| Derenevick  | Beltrame    |             | [ ]
+| Pedro       | Beltrame    |             | [ ]
+| Derenevick  | Rodrigo     |             | [ ]
+| Diego       | Umbelino    |             | [ ]
+| Carlos      | Felipe      |             | [ ]
+| Ricardo     | Albuquerque |             | [ ]
+| Snow        | Branco      |             | [ ]
+| Nil         | Fernando    |             | [ ]
+| Maurício    | Marques     |             | [ ]
 
 ### "Primeira" rodada
 
@@ -30,41 +65,6 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Diego       | Maurício    | Maurício    | [X]
 | Felipe      | Snow        | Snow        | [X]
 | Fernando    | Marques     | Fernando    | [X]
-
-### "Segunda" rodada
-
-| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
-| ----------- | ----------- | ----------- | :------:
-| Derenevick  | Beltrame    |             | [ ]
-| Pedro       | Beltrame    |             | [ ]
-| Derenevick  | Rodrigo     |             | [ ]
-| Diego       | Umbelino    |             | [ ]
-| Carlos      | Felipe      |             | [ ]
-| Ricardo     | Albuquerque |             | [ ]
-| Snow        | Branco      |             | [ ]
-| Nil         | Fernando    |             | [ ]
-| Maurício    | Marques     |             | [ ]
-
-## Classificação Atual
-
-| PT | VT | Jogador
-| -: | -: | -------
-| 07 | 03 | Pedro
-| 07 | 02 | Ricardo
-| 06 | 02 | Snow
-| 06 | 02 | Nil
-| 06 | 02 | Maurício
-| 06 | 02 | Marques
-| 06 | 02 | Fernando
-| 06 | 02 | Branco
-| 06 | 02 | Albuquerque
-| 05 | 02 | Felipe
-| 03 | 01 | Umbelino
-| 03 | 01 | Rodrigo
-| 03 | 01 | Beltrame
-| 02 | 00 | Derenevick
-| 00 | 00 | Diego
-| 00 | 00 | Carlos
 
 ## Regras
 **As regras de cada partida devem ser combinadas entre os jogadores**
