@@ -29,8 +29,8 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
 | Pedro       | Marques     |             | [ ]
-| Fernando    | Maurício    |             | [ ]
-| Derenevick  | Nil         |             | [ ]
+| Fernando    | Nil         |             | [ ]
+| Derenevick  | Maurício    |             | [ ]
 | Beltrame    | Snow        |             | [ ]
 | Ricardo     | Albuquerque |             | [ ]
 | Branco      | Carlos      |             | [ ]
