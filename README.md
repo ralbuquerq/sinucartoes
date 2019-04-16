@@ -16,7 +16,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Branco      | Rodrigo     | Branco      | [X]
 | Umbelino    | Ricardo     | Ricardo     | [X]
 | Carlos      | Albuquerque | Albuquerque | [X]
-| Diego       | Pedro       |             | [ ]
+| Diego       | Pedro       | Pedro       | [X]
 | Felipe      | Nil         | Felipe      | [ ]
 | Fernando    | Maurício    | Fernando    | [ ]
 | Derenevick  | Snow        | Snow        | [X]
@@ -34,6 +34,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | PT | VT | Jogador
 | -: | -: | -------
+| 07 | 03 | Pedro
 | 07 | 02 | Ricardo
 | 06 | 02 | Snow
 | 06 | 02 | Nil
@@ -43,7 +44,6 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 06 | 02 | Branco
 | 06 | 02 | Albuquerque
 | 05 | 02 | Felipe
-| 04 | 02 | Pedro
 | 03 | 01 | Umbelino
 | 03 | 01 | Rodrigo
 | 03 | 01 | Beltrame
