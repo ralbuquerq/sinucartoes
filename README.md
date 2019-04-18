@@ -5,10 +5,10 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | PT | VT | Jogador
 | -: | -: | -------
+| 10 | 04 | Pedro
 | 09 | 03 | Maurício
 | 09 | 03 | Fernando
 | 09 | 03 | Albuquerque
-| 07 | 03 | Pedro
 | 07 | 02 | Ricardo
 | 06 | 02 | Snow
 | 06 | 02 | Nil
@@ -28,7 +28,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
-| Pedro       | Marques     |             | [ ]
+| Pedro       | Marques     | Pedro       | [X]
 | Fernando    | Nil         | Fernando    | [X]
 | Derenevick  | Maurício    | Maurício    | [X]
 | Beltrame    | Snow        |             | [ ]
