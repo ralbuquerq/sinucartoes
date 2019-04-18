@@ -1,6 +1,29 @@
 # SinuCartões
 O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
 
+## Mata-mata
+
+```
+QUARTAS     SEMI        FINAL       VENCEDOR
+
+Pedro------
+          |-----------
+TBD--------           |
+                      |-----------
+Maurício---           |           |
+          |-----------            |    👑
+Branco-----                       |
+                                  |-----------
+Fernando---                       |
+          |-----------            |
+Ricardo----           |           |
+                      |-----------
+Albuquerque           |
+          |-----------
+Snow-------
+
+```
+
 ## Classificação Atual
 
 | PT | VT | Jogador
