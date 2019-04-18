@@ -35,6 +35,7 @@ Snow-------
 | 07 | 02 | Snow
 | 07 | 02 | Ricardo
 | 07 | 02 | Branco
+| 06 | 02 | Umbelino
 | 06 | 02 | Nil
 | 06 | 02 | Marques
 | 06 | 02 | Felipe
@@ -59,7 +60,7 @@ Snow-------
 | Branco      | Carlos      | Carlos      | [ ]
 | Felipe      | Diego       | Diego       | [ ]
 | Umbelino    | Rodrigo     |             | [ ]
-
+| Umbelino    | Rodrigo     | Umbelino    | [X]
 ### "Primeira" rodada
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
