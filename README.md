@@ -11,16 +11,16 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | 09 | 03 | Albuquerque
 | 07 | 02 | Snow
 | 07 | 02 | Ricardo
+| 07 | 02 | Branco
 | 06 | 02 | Nil
 | 06 | 02 | Marques
 | 06 | 02 | Felipe
-| 06 | 02 | Branco
 | 05 | 02 | Beltrame
 | 03 | 01 | Umbelino
 | 03 | 01 | Rodrigo
 | 02 | 01 | Diego
+| 02 | 01 | Carlos
 | 02 | 00 | Derenevick
-| 00 | 00 | Carlos
 
 ## Tabela das Partidas
 
@@ -33,7 +33,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 | Derenevick  | Maurício    | Maurício    | [X]
 | Beltrame    | Snow        | Beltrame    | [ ]
 | Ricardo     | Albuquerque | Albuquerque | [X]
-| Branco      | Carlos      |             | [ ]
+| Branco      | Carlos      | Carlos      | [ ]
 | Felipe      | Diego       | Diego       | [ ]
 | Umbelino    | Rodrigo     |             | [ ]
 
