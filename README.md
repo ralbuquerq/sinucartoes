@@ -21,7 +21,17 @@ Ricardo----           |           |
 Albuquerque           |
           |-----------
 Snow-------
+```
 
+## Repescagem
+```
+Umbelino---
+          |-----------
+Felipe-----           |
+                      |-----------
+Nil-------|           |
+          |-----------
+Marques----
 ```
 
 ## Classificação Atual
@@ -40,7 +50,6 @@ Snow-------
 | 06 | 02 | Marques
 | 06 | 02 | Felipe
 | 05 | 02 | Beltrame
-| 03 | 01 | Umbelino
 | 03 | 01 | Rodrigo
 | 02 | 01 | Diego
 | 02 | 01 | Carlos
@@ -59,8 +68,8 @@ Snow-------
 | Ricardo     | Albuquerque | Albuquerque | [X]
 | Branco      | Carlos      | Carlos      | [ ]
 | Felipe      | Diego       | Diego       | [ ]
-| Umbelino    | Rodrigo     |             | [ ]
 | Umbelino    | Rodrigo     | Umbelino    | [X]
+
 ### "Primeira" rodada
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
