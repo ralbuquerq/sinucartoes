@@ -1,7 +1,7 @@
 # SinuCartões
 O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
 
-## Mata-mata
+## Mata-mata (melhor de 3)
 
 ```
 
@@ -25,7 +25,7 @@ Snow-------
 
 ```
 
-## Repescagem
+## Repescagem (melhor de 3)
 
 ```
 
@@ -133,7 +133,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 ### 2º Mata-mata
 
-Dependendo do número de inscritos teremos final e semi final ou apenas final.
+Teremos quartas de final. Cada embate deverá ser disputado com "melhor de 3".
 
 #### Critérios de classificação:
 
