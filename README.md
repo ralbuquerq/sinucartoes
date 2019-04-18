@@ -4,6 +4,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 ## Mata-mata
 
 ```
+
 QUARTAS     SEMI        FINAL       VENCEDOR
 
 Pedro------
@@ -21,17 +22,21 @@ Ricardo----           |           |
 Albuquerque           |
           |-----------
 Snow-------
+
 ```
 
 ## Repescagem
+
 ```
+
 Umbelino---
           |-----------
 Felipe-----           |
                       |-----------
-Nil-------|           |
+Nil--------           |
           |-----------
 Marques----
+
 ```
 
 ## Classificação Atual
@@ -103,6 +108,7 @@ Marques----
 **As regras de cada partida devem ser combinadas entre os jogadores**
 
 ## Formato do campeonado
+
 ### 1º Classificatória
 Primeiramente todos os jogadores irão jogar de 3 vezes pontuando para a fase de mata-mata
 
@@ -115,7 +121,6 @@ Vitória com vantagem | 3
 Vitória sem vantagem | 2
 Derrota sem vantagem | 1
 
-
 ```javascript
 if (numeroDeBolasNaMesa > 0) {
     vencedor = 3;
@@ -126,8 +131,8 @@ if (numeroDeBolasNaMesa > 0) {
 } 
 ```
 
-
 ### 2º Mata-mata
+
 Dependendo do número de inscritos teremos final e semi final ou apenas final.
 
 #### Critérios de classificação:
