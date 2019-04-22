@@ -20,7 +20,7 @@ Fernando---                       |
 Ricardo----           |           |
                       |-----------
 Albuquerque           |
-          |-----------
+          | Albuquerque
 Snow-------
 
 ```
