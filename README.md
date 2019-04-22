@@ -8,17 +8,17 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 QUARTAS     SEMI        FINAL       VENCEDOR
 
 Pedro------
-          |-----------
+          | -----------
 TBD--------           |
-                      |-----------
+                      | -----------
 Maurício---           |           |
-          | Maurício--            |    👑
+          | Maurício---           |    👑
 Branco-----                       |
-                                  |-----------
+                                  | -----------
 Fernando---                       |
-          |-----------            |
+          | -----------           |
 Ricardo----           |           |
-                      |-----------
+                      | -----------
 Albuquerque           |
           | Albuquerque
 Snow-------
@@ -30,11 +30,11 @@ Snow-------
 ```
 
 Umbelino---
-          |-----------
+          | -----------
 Felipe-----           |
-                      |-----------
+                      | -----------
 Nil--------           |
-          |-----------
+          | -----------
 Marques----
 
 ```
