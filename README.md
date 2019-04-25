@@ -9,7 +9,7 @@ QUARTAS     SEMI        FINAL       VENCEDOR
 
 Pedro------
           | -----------
-TBD--------           |
+Nil--------           |
                       | -----------
 Maurício---           |           |
           | Maurício---           |    👑
@@ -32,7 +32,7 @@ Snow-------
 Umbelino---
           | Felipe-----
 Felipe-----           |
-                      | -----------
+                      | Nil--------
 Nil--------           |
           | Nil--------
 Marques----
