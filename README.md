@@ -8,7 +8,7 @@ O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ �
 QUARTAS     SEMI        FINAL       VENCEDOR
 
 Pedro------
-          | -----------
+          | Pedro------
 Nil--------           |
                       | -----------
 Maurício---           |           |
