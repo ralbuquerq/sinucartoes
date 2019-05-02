@@ -10,7 +10,7 @@ QUARTAS     SEMI        FINAL       VENCEDOR
 Pedro------
           | Pedro------
 Nil--------           |
-                      | -----------
+                      | Pedro------
 Maurício---           |           |
           | Maurício---           |    👑
 Branco-----                       |
