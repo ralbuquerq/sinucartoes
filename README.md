@@ -16,9 +16,9 @@ Maurício---           |           |
 Branco-----                       |
                                   | -----------
 Fernando---                       |
-          | -----------           |
+          | Fernando---           |
 Ricardo----           |           |
-                      | -----------
+                      | Albuquerque
 Albuquerque           |
           | Albuquerque
 Snow-------
