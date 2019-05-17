@@ -1,41 +1,6 @@
-# SinuCartões
-O maior campeonato internacional de sinuca da equipe de cartões 🤘 ⚡️ 🎱
+# SinuCartões 
+O maior campeonato internacional de sinuca da equipe de cartões e Sustentação 🤘 ⚡️ 🎱
 
-## Mata-mata (melhor de 3)
-
-```
-
-QUARTAS     SEMI        FINAL       VENCEDOR
-
-Pedro------
-          | Pedro------
-Nil--------           |
-                      | Pedro------
-Maurício---           |           |
-          | Maurício---           |    👑
-Branco-----                       |
-                                  | Albuquerque
-Fernando---                       |
-          | Fernando---           |
-Ricardo----           |           |
-                      | Albuquerque
-Albuquerque           |
-          | Albuquerque
-Snow-------
-
-```
-
-## Repescagem (melhor de 3)
-
-```
-
-Umbelino---
-          | Felipe-----
-Felipe-----           |
-                      | Nil--------
-Nil--------           |
-          | Nil--------
-Marques----
 
 ```
 
@@ -59,21 +24,6 @@ Marques----
 | 02 | 01 | Diego
 | 02 | 01 | Carlos
 | 02 | 00 | Derenevick
-
-## Tabela das Partidas
-
-### "Segunda" rodada
-
-| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
-| ----------- | ----------- | ----------- | :------:
-| Pedro       | Marques     | Pedro       | [X]
-| Fernando    | Nil         | Fernando    | [X]
-| Derenevick  | Maurício    | Maurício    | [X]
-| Beltrame    | Snow        | Beltrame    | [ ]
-| Ricardo     | Albuquerque | Albuquerque | [X]
-| Branco      | Carlos      | Carlos      | [ ]
-| Felipe      | Diego       | Diego       | [ ]
-| Umbelino    | Rodrigo     | Umbelino    | [X]
 
 ### "Primeira" rodada
 
