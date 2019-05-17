@@ -80,7 +80,7 @@ Marques----
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
 | Branco      | Umbelino    | Umbelino    | [ ]
-| Carlos      | Rodrigo     | Rodrigo     | [X]
+| Carlos      | Rodrigo     | Rodrigo     | [ ]
 | Diego       | Ricardo     | Ricardo     | [X]
 | Felipe      | Albuquerque | Felipe      | [X]
 | Fernando    | Pedro       | Pedro       | [ ]
