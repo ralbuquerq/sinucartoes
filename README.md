@@ -28,7 +28,7 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 ### "Primeira" rodada
 
 JOGADOR 1	JOGADOR 2	VENCEDOR	VANTAGEM
- Snow                   	 Vidotti		[  ] 
+ Snow     Vidotti		[  ] 
  Carlos 	 Bruno L.		[  ] 
  Mauricio	 Zanelatto		[  ] 
  Beltrame 	 Zanese		[  ] 
