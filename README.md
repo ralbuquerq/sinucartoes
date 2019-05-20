@@ -54,335 +54,334 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | Fernando    | Marques     | Fernando    | [X]
 | Derenevick  | Beltrame    | Beltrame    | [ ]
 
-| Snow	| Vidotti 	|		|	[	]
-| Snow	| Vidotti 	|		|	[	]
-| Snow	| Vidotti 	|		|	[	]
+|	Jogador 1	|	Jogador 2	|	Vencedor	|	Vantagem
+|	-----------	|	-----------	|	-----------	|	:------:
+|	Snow	|	Vidotti	|	Umbelino	|	[ ]
+|	Carlos	|	Bruno L.	|	Rodrigo	|	[ ]
+|	Mauricio	|	Zanelatto	|	Ricardo	|	[X]
+|	Beltrame	|	Zanese	|	Felipe	|	[X]
+|	Fernando	|	Bortoli	|	Pedro	|	[ ]
+|	Pedro	|	Bosquetto	|	Nil	|	[ ]
+|	Diego	|	Hunas		| MaurÃ­cio		| [ ]
+|	Branco	|	Cunha	|	Marques	|	[X]
+|	Umbelino	|	Stella	|	Branco	|	[X]
+|	Albuquerque	|	Higor	|	Ricardo	|	[X]
+|	Ricardo	|	Felipe	|	Albuquerque	|	[X]
+|	Leticia	|	Nil	|	Pedro	|	[X]
+|	Derenevick	|	Rodrigo	|	Felipe	|	[ ]
+|	Snow	|	Bruno L.		| Fernando		| [ ]
+|	Vidotti	|	Zanelatto	|	Snow	|	[X]
+|	Carlos	|	Zanese	|	Marques	|	[X]
+|	Mauricio	|	Bortoli	|	Branco	|	[ ]
+|	Beltrame	|	Bosquetto	|	Albuquerque	|	[X]
+|	Fernando	|	Hunas	|	Pedro	|	[ ]
+|	Pedro	|	Cunha	|	Nil	|	[X]
+|	Diego	|	Stella		| MaurÃ­cio		| [X]
+|	Branco	|	Higor	|	Snow	|	[X]
+|	Umbelino	|	Felipe	|	Fernando	|	[X]
+|	Albuquerque	|	Nil	|	Beltrame	|	[ ]
+|	Ricardo	|	Rodrigo	|			
+|	Leticia	|	Derenevick	|			
+|	Snow	|	Zanelatto	|			
+|	Bruno L.	|	Zanese	|			
+|	Vidotti	|	Bortoli	|			
+|	Carlos	|	Bosquetto	|			
+|	Mauricio	|	Hunas	|			
+|	Beltrame	|	Cunha	|			
+|	Fernando	|	Stella	|			
+|	Pedro	|	Higor	|			
+|	Diego	|	Felipe	|			
+|	Branco	|	Nil	|			
+|	Umbelino	|	Rodrigo	|			
+|	Albuquerque	|	Derenevick	|			
+|	Ricardo	|	Leticia	|			
+|	Snow	|	Zanese	|			
+|	Zanelatto	|	Bortoli	|			
+|	Bruno L.	|	Bosquetto	|			
+|	Vidotti	|	Hunas	|			
+|	Carlos	|	Cunha	|			
+|	Mauricio	|	Stella	|			
+|	Beltrame	|	Higor	|			
+|	Fernando	|	Felipe	|			
+|	Pedro	|	Nil	|			
+|	Diego	|	Rodrigo	|			
+|	Branco	|	Derenevick	|			
+|	Umbelino	|	Leticia	|			
+|	Albuquerque	|	Ricardo	|			
+|	Snow	|	Bortoli	|			
+|	Zanese	|	Bosquetto	|			
+|	Zanelatto	|	Hunas	|			
+|	Bruno L.	|	Cunha	|			
+|	Vidotti	|	Stella	|			
+|	Carlos	|	Higor	|			
+|	Mauricio	|	Felipe	|			
+|	Beltrame	|	Nil	|			
+|	Fernando	|	Rodrigo	|			
+|	Pedro	|	Derenevick	|			
+|	Diego	|	Leticia	|			
+|	Branco	|	Ricardo	|			
+|	Umbelino	|	Albuquerque	|			
+|	Snow	|	Bosquetto	|			
+|	Bortoli	|	Hunas	|			
+|	Zanese	|	Cunha	|			
+|	Zanelatto	|	Stella	|			
+|	Bruno L.	|	Higor	|			
+|	Vidotti	|	Felipe	|			
+|	Carlos	|	Nil	|			
+|	Mauricio	|	Rodrigo	|			
+|	Beltrame	|	Derenevick	|			
+|	Fernando	|	Leticia	|			
+|	Pedro	|	Ricardo	|			
+|	Diego	|	Albuquerque	|			
+|	Branco	|	Umbelino	|			
+|	Snow	|	Hunas	|			
+|	Bosquetto	|	Cunha	|			
+|	Bortoli	|	Stella	|			
+|	Zanese	|	Higor	|			
+|	Zanelatto	|	Felipe	|			
+|	Bruno L.	|	Nil	|			
+|	Vidotti	|	Rodrigo	|			
+|	Carlos	|	Derenevick	|			
+|	Mauricio	|	Leticia	|			
+|	Beltrame	|	Ricardo	|			
+|	Fernando	|	Albuquerque	|			
+|	Pedro	|	Umbelino	|			
+|	Diego	|	Branco	|			
+|	Snow	|	Cunha	|			
+|	Hunas	|	Stella	|			
+|	Bosquetto	|	Higor	|			
+|	Bortoli	|	Felipe	|			
+|	Zanese	|	Nil	|			
+|	Zanelatto	|	Rodrigo	|			
+|	Bruno L.	|	Derenevick	|			
+|	Vidotti	|	Leticia	|			
+|	Carlos	|	Ricardo	|			
+|	Mauricio	|	Albuquerque	|			
+|	Beltrame	|	Umbelino	|			
+|	Fernando	|	Branco	|			
+|	Pedro	|	Diego	|			
+|	Snow	|	Stella	|			
+|	Cunha	|	Higor	|			
+|	Hunas	|	Felipe	|			
+|	Bosquetto	|	Nil	|			
+|	Bortoli	|	Rodrigo	|			
+|	Zanese	|	Derenevick	|			
+|	Zanelatto	|	Leticia	|			
+|	Bruno L.	|	Ricardo	|			
+|	Vidotti	|	Albuquerque	|			
+|	Carlos	|	Umbelino	|			
+|	Mauricio	|	Branco	|			
+|	Beltrame	|	Diego	|			
+|	Fernando	|	Pedro	|			
+|	Snow	|	Higor	|			
+|	Stella	|	Felipe	|			
+|	Cunha	|	Nil	|			
+|	Hunas	|	Rodrigo	|			
+|	Bosquetto	|	Derenevick	|			
+|	Bortoli	|	Leticia	|			
+|	Zanese	|	Ricardo	|			
+|	Zanelatto	|	Albuquerque	|			
+|	Bruno L.	|	Umbelino	|			
+|	Vidotti	|	Branco	|			
+|	Carlos	|	Diego	|			
+|	Mauricio	|	Pedro	|			
+|	Beltrame	|	Fernando	|			
+|	Snow	|	Felipe	|			
+|	Higor	|	Nil	|			
+|	Stella	|	Rodrigo	|			
+|	Cunha	|	Derenevick	|			
+|	Hunas	|	Leticia	|			
+|	Bosquetto	|	Ricardo	|			
+|	Bortoli	|	Albuquerque	|			
+|	Zanese	|	Umbelino	|			
+|	Zanelatto	|	Branco	|			
+|	Bruno L.	|	Diego	|			
+|	Vidotti	|	Pedro	|			
+|	Carlos	|	Fernando	|			
+|	Mauricio	|	Beltrame	|			
+|	Snow	|	Nil	|			
+|	Felipe	|	Rodrigo	|			
+|	Higor	|	Derenevick	|			
+|	Stella	|	Leticia	|			
+|	Cunha	|	Ricardo	|			
+|	Hunas	|	Albuquerque	|			
+|	Bosquetto	|	Umbelino	|			
+|	Bortoli	|	Branco	|			
+|	Zanese	|	Diego	|			
+|	Zanelatto	|	Pedro	|			
+|	Bruno L.	|	Fernando	|			
+|	Vidotti	|	Beltrame	|			
+|	Carlos	|	Mauricio	|			
+|	Snow	|	Rodrigo	|			
+|	Nil	|	Derenevick	|			
+|	Felipe	|	Leticia	|			
+|	Higor	|	Ricardo	|			
+|	Stella	|	Albuquerque	|			
+|	Cunha	|	Umbelino	|			
+|	Hunas	|	Branco	|			
+|	Bosquetto	|	Diego	|			
+|	Bortoli	|	Pedro	|			
+|	Zanese	|	Fernando	|			
+|	Zanelatto	|	Beltrame	|			
+|	Bruno L.	|	Mauricio	|			
+|	Vidotti	|	Carlos	|			
+|	Snow	|	Derenevick	|			
+|	Rodrigo	|	Leticia	|			
+|	Nil	|	Ricardo	|			
+|	Felipe	|	Albuquerque	|			
+|	Higor	|	Umbelino	|			
+|	Stella	|	Branco	|			
+|	Cunha	|	Diego	|			
+|	Hunas	|	Pedro	|			
+|	Bosquetto	|	Fernando	|			
+|	Bortoli	|	Beltrame	|			
+|	Zanese	|	Mauricio	|			
+|	Zanelatto	|	Carlos	|			
+|	Bruno L.	|	Vidotti	|			
+|	Snow	|	Leticia	|			
+|	Derenevick	|	Ricardo	|			
+|	Rodrigo	|	Albuquerque	|			
+|	Nil	|	Umbelino	|			
+|	Felipe	|	Branco	|			
+|	Higor	|	Diego	|			
+|	Stella	|	Pedro	|			
+|	Cunha	|	Fernando	|			
+|	Hunas	|	Beltrame	|			
+|	Bosquetto	|	Mauricio	|			
+|	Bortoli	|	Carlos	|			
+|	Zanese	|	Vidotti	|			
+|	Zanelatto	|	Bruno L.	|			
+|	Snow	|	Ricardo	|			
+|	Leticia	|	Albuquerque	|			
+|	Derenevick	|	Umbelino	|			
+|	Rodrigo	|	Branco	|			
+|	Nil	|	Diego	|			
+|	Felipe	|	Pedro	|			
+|	Higor	|	Fernando	|			
+|	Stella	|	Beltrame	|			
+|	Cunha	|	Mauricio	|			
+|	Hunas	|	Carlos	|			
+|	Bosquetto	|	Vidotti	|			
+|	Bortoli	|	Bruno L.	|			
+|	Zanese	|	Zanelatto	|			
+|	Snow	|	Albuquerque	|			
+|	Ricardo	|	Umbelino	|			
+|	Leticia	|	Branco	|			
+|	Derenevick	|	Diego	|			
+|	Rodrigo	|	Pedro	|			
+|	Nil	|	Fernando	|			
+|	Felipe	|	Beltrame	|			
+|	Higor	|	Mauricio	|			
+|	Stella	|	Carlos	|			
+|	Cunha	|	Vidotti	|			
+|	Hunas	|	Bruno L.	|			
+|	Bosquetto	|	Zanelatto	|			
+|	Bortoli	|	Zanese	|			
+|	Snow	|	Umbelino	|			
+|	Albuquerque	|	Branco	|			
+|	Ricardo	|	Diego	|			
+|	Leticia	|	Pedro	|			
+|	Derenevick	|	Fernando	|			
+|	Rodrigo	|	Beltrame	|			
+|	Nil	|	Mauricio	|			
+|	Felipe	|	Carlos	|			
+|	Higor	|	Vidotti	|			
+|	Stella	|	Bruno L.	|			
+|	Cunha	|	Zanelatto	|			
+|	Hunas	|	Zanese	|			
+|	Bosquetto	|	Bortoli	|			
+|	Snow	|	Branco	|			
+|	Umbelino	|	Diego	|			
+|	Albuquerque	|	Pedro	|			
+|	Ricardo	|	Fernando	|			
+|	Leticia	|	Beltrame	|			
+|	Derenevick	|	Mauricio	|			
+|	Rodrigo	|	Carlos	|			
+|	Nil	|	Vidotti	|			
+|	Felipe	|	Bruno L.	|			
+|	Higor	|	Zanelatto	|			
+|	Stella	|	Zanese	|			
+|	Cunha	|	Bortoli	|			
+|	Hunas	|	Bosquetto	|			
+|	Snow	|	Diego	|			
+|	Branco	|	Pedro	|			
+|	Umbelino	|	Fernando	|			
+|	Albuquerque	|	Beltrame	|			
+|	Ricardo	|	Mauricio	|			
+|	Leticia	|	Carlos	|			
+|	Derenevick	|	Vidotti	|			
+|	Rodrigo	|	Bruno L.	|			
+|	Nil	|	Zanelatto	|			
+|	Felipe	|	Zanese	|			
+|	Higor	|	Bortoli	|			
+|	Stella	|	Bosquetto	|			
+|	Cunha	|	Hunas	|			
+|	Snow	|	Pedro	|			
+|	Diego	|	Fernando	|			
+|	Branco	|	Beltrame	|			
+|	Umbelino	|	Mauricio	|			
+|	Albuquerque	|	Carlos	|			
+|	Ricardo	|	Vidotti	|			
+|	Leticia	|	Bruno L.	|			
+|	Derenevick	|	Zanelatto	|			
+|	Rodrigo	|	Zanese	|			
+|	Nil	|	Bortoli	|			
+|	Felipe	|	Bosquetto	|			
+|	Higor	|	Hunas	|			
+|	Stella	|	Cunha	|			
+|	Snow	|	Fernando	|			
+|	Pedro	|	Beltrame	|			
+|	Diego	|	Mauricio	|			
+|	Branco	|	Carlos	|			
+|	Umbelino	|	Vidotti	|			
+|	Albuquerque	|	Bruno L.	|			
+|	Ricardo	|	Zanelatto	|			
+|	Leticia	|	Zanese	|			
+|	Derenevick	|	Bortoli	|			
+|	Rodrigo	|	Bosquetto	|			
+|	Nil	|	Hunas	|			
+|	Felipe	|	Cunha	|			
+|	Higor	|	Stella	|			
+|	Snow	|	Beltrame	|			
+|	Fernando	|	Mauricio	|			
+|	Pedro	|	Carlos	|			
+|	Diego	|	Vidotti	|			
+|	Branco	|	Bruno L.	|			
+|	Umbelino	|	Zanelatto	|			
+|	Albuquerque	|	Zanese	|			
+|	Ricardo	|	Bortoli	|			
+|	Leticia	|	Bosquetto	|			
+|	Derenevick	|	Hunas	|			
+|	Rodrigo	|	Cunha	|			
+|	Nil	|	Stella	|			
+|	Felipe	|	Higor	|			
+|	Snow	|	Mauricio	|			
+|	Beltrame	|	Carlos	|			
+|	Fernando	|	Vidotti	|			
+|	Pedro	|	Bruno L.	|			
+|	Diego	|	Zanelatto	|			
+|	Branco	|	Zanese	|			
+|	Umbelino	|	Bortoli	|			
+|	Albuquerque	|	Bosquetto	|			
+|	Ricardo	|	Hunas	|			
+|	Leticia	|	Cunha	|			
+|	Derenevick	|	Stella	|			
+|	Rodrigo	|	Higor	|			
+|	Nil	|	Felipe	|			
+|	Snow	|	Carlos	|			
+|	Mauricio	|	Vidotti	|			
+|	Beltrame	|	Bruno L.	|			
+|	Fernando	|	Zanelatto	|			
+|	Pedro	|	Zanese	|			
+|	Diego	|	Bortoli	|			
+|	Branco	|	Bosquetto	|			
+|	Umbelino	|	Hunas	|			
+|	Albuquerque	|	Cunha	|			
+|	Ricardo	|	Stella	|			
+|	Leticia	|	Higor	|			
+|	Derenevick	|	Felipe	|			
+|	Rodrigo	|	Nil	|			
 
-| Carlos      | Bruno L.		  |             | [ ] 
-| Mauricio	   | Zanelatto		 |             | [ ] 
-| Beltrame 	x	 Zanese		[  ] 
-| Fernando 	x	 Bortoli		[  ] 
-| Pedro 	x	 Bosquetto		[  ] 
-| Diego 	x	 Hunas		[  ] 
-| Branco 	x	 Cunha		[  ] 
-| Umbelino 	x	 Stella		[  ] 
-| Albuquerque 	x	 Higor		[  ] 
-| Ricardo 	x	 Felipe		[  ] 
-| Leticia	x	 Nil		[  ] 
-| Derenevick 	x	 Rodrigo		[  ] 
-| 
-| Snow 	x	 Bruno L.		[  ] 
-| Vidotti 	x	 Zanelatto		[  ] 
-| Carlos 	x	 Zanese		[  ] 
-| Mauricio	x	 Bortoli		[  ] 
-| Beltrame 	x	 Bosquetto		[  ] 
-| Fernando 	x	 Hunas		[  ] 
-| Pedro 	x	 Cunha		[  ] 
-| Diego 	x	 Stella		[  ] 
-| Branco 	x	 Higor		[  ] 
-| Umbelino 	x	 Felipe		[  ] 
-| Albuquerque 	x	 Nil		[  ] 
-| Ricardo 	x	 Rodrigo		[  ] 
-| Leticia	x	 Derenevick		[  ] 
-| Snow 	x	 Zanelatto		[  ] 
-| Bruno L. 	x	 Zanese		[  ] 
-| Vidotti 	x	 Bortoli		[  ] 
-| Carlos 	x	 Bosquetto		[  ] 
-| Mauricio	x	 Hunas		[  ] 
-| Beltrame 	x	 Cunha		[  ] 
-| Fernando 	x	 Stella		[  ] 
-| Pedro 	x	 Higor		[  ] 
-| Diego 	x	 Felipe		[  ] 
-| Branco 	x	 Nil		[  ] 
-| Umbelino 	x	 Rodrigo		[  ] 
-| Albuquerque 	x	 Derenevick		[  ] 
-| Ricardo 	x	 Leticia		[  ] 
-| Snow 	x	 Zanese		[  ] 
-| Zanelatto 	x	 Bortoli		[  ] 
-| Bruno L. 	x	 Bosquetto		[  ] 
-| Vidotti 	x	 Hunas		[  ] 
-| Carlos 	x	 Cunha		[  ] 
-| Mauricio	x	 Stella		[  ] 
-| Beltrame 	x	 Higor		[  ] 
-| Fernando 	x	 Felipe		[  ] 
-| Pedro 	x	 Nil		[  ] 
-| Diego 	x	 Rodrigo		[  ] 
-| Branco 	x	 Derenevick		[  ] 
-| Umbelino 	x	 Leticia		[  ] 
-| Albuquerque 	x	 Ricardo		[  ] 
-| Snow 	x	 Bortoli		[  ] 
-| Zanese 	x	 Bosquetto		[  ] 
-| Zanelatto 	x	 Hunas		[  ] 
-| Bruno L. 	x	 Cunha		[  ] 
-| Vidotti 	x	 Stella		[  ] 
-| Carlos 	x	 Higor		[  ] 
-| Mauricio	x	 Felipe		[  ] 
-| Beltrame 	x	 Nil		[  ] 
-| Fernando 	x	 Rodrigo		[  ] 
-| Pedro 	x	 Derenevick		[  ] 
-| Diego 	x	 Leticia		[  ] 
-| Branco 	x	 Ricardo		[  ] 
-| Umbelino 	x	 Albuquerque		[  ] 
-| Snow 	x	 Bosquetto		[  ] 
-| Bortoli 	x	 Hunas		[  ] 
-| Zanese 	x	 Cunha		[  ] 
-| Zanelatto 	x	 Stella		[  ] 
-| Bruno L. 	x	 Higor		[  ] 
-| Vidotti 	x	 Felipe		[  ] 
-| Carlos 	x	 Nil		[  ] 
-| Mauricio	x	 Rodrigo		[  ] 
-| Beltrame 	x	 Derenevick		[  ] 
-| Fernando 	x	 Leticia		[  ] 
-| Pedro 	x	 Ricardo		[  ] 
-| Diego 	x	 Albuquerque		[  ] 
-| Branco 	x	 Umbelino		[  ] 
-| Snow 	x	 Hunas		[  ] 
-| Bosquetto 	x	 Cunha		[  ] 
-| Bortoli 	x	 Stella		[  ] 
-| Zanese 	x	 Higor		[  ] 
-| Zanelatto 	x	 Felipe		[  ] 
-| Bruno L. 	x	 Nil		[  ] 
-| Vidotti 	x	 Rodrigo		[  ] 
-| Carlos 	x	 Derenevick		[  ] 
-| Mauricio	x	 Leticia		[  ] 
-| Beltrame 	x	 Ricardo		[  ] 
-| Fernando 	x	 Albuquerque		[  ] 
-| Pedro 	x	 Umbelino		[  ] 
-| Diego 	x	 Branco		[  ] 
-| Snow 	x	 Cunha		[  ] 
-| Hunas 	x	 Stella		[  ] 
-| Bosquetto 	x	 Higor		[  ] 
-| Bortoli 	x	 Felipe		[  ] 
-| Zanese 	x	 Nil		[  ] 
-| Zanelatto 	x	 Rodrigo		[  ] 
-| Bruno L. 	x	 Derenevick		[  ] 
-| Vidotti 	x	 Leticia		[  ] 
-| Carlos 	x	 Ricardo		[  ] 
-| Mauricio	x	 Albuquerque		[  ] 
-| Beltrame 	x	 Umbelino		[  ] 
-| Fernando 	x	 Branco		[  ] 
-| Pedro 	x	 Diego		[  ] 
-| Snow 	x	 Stella		[  ] 
-| Cunha 	x	 Higor		[  ] 
-| Hunas 	x	 Felipe		[  ] 
-| Bosquetto 	x	 Nil		[  ] 
-| Bortoli 	x	 Rodrigo		[  ] 
-| Zanese 	x	 Derenevick		[  ] 
-| Zanelatto 	x	 Leticia		[  ] 
-| Bruno L. 	x	 Ricardo		[  ] 
-| Vidotti 	x	 Albuquerque		[  ] 
-| Carlos 	x	 Umbelino		[  ] 
-| Mauricio	x	 Branco		[  ] 
-| Beltrame 	x	 Diego		[  ] 
-| Fernando 	x	 Pedro		[  ] 
-| Snow 	x	 Higor		[  ] 
-| Stella 	x	 Felipe		[  ] 
-| Cunha 	x	 Nil		[  ] 
-| Hunas 	x	 Rodrigo		[  ] 
-| Bosquetto 	x	 Derenevick		[  ] 
-| Bortoli 	x	 Leticia		[  ] 
-| Zanese 	x	 Ricardo		[  ] 
-| Zanelatto 	x	 Albuquerque		[  ] 
-| Bruno L. 	x	 Umbelino		[  ] 
-| Vidotti 	x	 Branco		[  ] 
-| Carlos 	x	 Diego		[  ] 
- Mauricio	x	 Pedro		[  ] 
- Beltrame 	x	 Fernando		[  ] 
- Snow 	x	 Felipe		[  ] 
- Higor 	x	 Nil		[  ] 
- Stella 	x	 Rodrigo		[  ] 
- Cunha 	x	 Derenevick		[  ] 
- Hunas 	x	 Leticia		[  ] 
- Bosquetto 	x	 Ricardo		[  ] 
- Bortoli 	x	 Albuquerque		[  ] 
- Zanese 	x	 Umbelino		[  ] 
- Zanelatto 	x	 Branco		[  ] 
- Bruno L. 	x	 Diego		[  ] 
- Vidotti 	x	 Pedro		[  ] 
- Carlos 	x	 Fernando		[  ] 
- Mauricio	x	 Beltrame		[  ] 
- Snow 	x	 Nil		[  ] 
- Felipe 	x	 Rodrigo		[  ] 
- Higor 	x	 Derenevick		[  ] 
- Stella 	x	 Leticia		[  ] 
- Cunha 	x	 Ricardo		[  ] 
- Hunas 	x	 Albuquerque		[  ] 
- Bosquetto 	x	 Umbelino		[  ] 
- Bortoli 	x	 Branco		[  ] 
- Zanese 	x	 Diego		[  ] 
- Zanelatto 	x	 Pedro		[  ] 
- Bruno L. 	x	 Fernando		[  ] 
- Vidotti 	x	 Beltrame		[  ] 
- Carlos 	x	 Mauricio		[  ] 
- Snow 	x	 Rodrigo		[  ] 
- Nil 	x	 Derenevick		[  ] 
- Felipe 	x	 Leticia		[  ] 
- Higor 	x	 Ricardo		[  ] 
- Stella 	x	 Albuquerque		[  ] 
- Cunha 	x	 Umbelino		[  ] 
- Hunas 	x	 Branco		[  ] 
- Bosquetto 	x	 Diego		[  ] 
- Bortoli 	x	 Pedro		[  ] 
- Zanese 	x	 Fernando		[  ] 
- Zanelatto 	x	 Beltrame		[  ] 
- Bruno L. 	x	 Mauricio		[  ] 
- Vidotti 	x	 Carlos		[  ] 
- Snow 	x	 Derenevick		[  ] 
- Rodrigo 	x	 Leticia		[  ] 
- Nil 	x	 Ricardo		[  ] 
- Felipe 	x	 Albuquerque		[  ] 
- Higor 	x	 Umbelino		[  ] 
- Stella 	x	 Branco		[  ] 
- Cunha 	x	 Diego		[  ] 
- Hunas 	x	 Pedro		[  ] 
- Bosquetto 	x	 Fernando		[  ] 
- Bortoli 	x	 Beltrame		[  ] 
- Zanese 	x	 Mauricio		[  ] 
- Zanelatto 	x	 Carlos		[  ] 
- Bruno L. 	x	 Vidotti		[  ] 
- Snow 	x	 Leticia		[  ] 
- Derenevick 	x	 Ricardo		[  ] 
- Rodrigo 	x	 Albuquerque		[  ] 
- Nil 	x	 Umbelino		[  ] 
- Felipe 	x	 Branco		[  ] 
- Higor 	x	 Diego		[  ] 
- Stella 	x	 Pedro		[  ] 
- Cunha 	x	 Fernando		[  ] 
- Hunas 	x	 Beltrame		[  ] 
- Bosquetto 	x	 Mauricio		[  ] 
- Bortoli 	x	 Carlos		[  ] 
- Zanese 	x	 Vidotti		[  ] 
- Zanelatto 	x	 Bruno L.		[  ] 
- Snow 	x	 Ricardo		[  ] 
- Leticia	x	 Albuquerque		[  ] 
- Derenevick 	x	 Umbelino		[  ] 
- Rodrigo 	x	 Branco		[  ] 
- Nil 	x	 Diego		[  ] 
- Felipe 	x	 Pedro		[  ] 
- Higor 	x	 Fernando		[  ] 
- Stella 	x	 Beltrame		[  ] 
- Cunha 	x	 Mauricio		[  ] 
- Hunas 	x	 Carlos		[  ] 
- Bosquetto 	x	 Vidotti		[  ] 
- Bortoli 	x	 Bruno L.		[  ] 
- Zanese 	x	 Zanelatto		[  ] 
- Snow 	x	 Albuquerque		[  ] 
- Ricardo 	x	 Umbelino		[  ] 
- Leticia	x	 Branco		[  ] 
- Derenevick 	x	 Diego		[  ] 
- Rodrigo 	x	 Pedro		[  ] 
- Nil 	x	 Fernando		[  ] 
- Felipe 	x	 Beltrame		[  ] 
- Higor 	x	 Mauricio		[  ] 
- Stella 	x	 Carlos		[  ] 
- Cunha 	x	 Vidotti		[  ] 
- Hunas 	x	 Bruno L.		[  ] 
- Bosquetto 	x	 Zanelatto		[  ] 
- Bortoli 	x	 Zanese		[  ] 
- Snow 	x	 Umbelino		[  ] 
- Albuquerque 	x	 Branco		[  ] 
- Ricardo 	x	 Diego		[  ] 
- Leticia	x	 Pedro		[  ] 
- Derenevick 	x	 Fernando		[  ] 
- Rodrigo 	x	 Beltrame		[  ] 
- Nil 	x	 Mauricio		[  ] 
- Felipe 	x	 Carlos		[  ] 
- Higor 	x	 Vidotti		[  ] 
- Stella 	x	 Bruno L.		[  ] 
- Cunha 	x	 Zanelatto		[  ] 
- Hunas 	x	 Zanese		[  ] 
- Bosquetto 	x	 Bortoli		[  ] 
- Snow 	x	 Branco		[  ] 
- Umbelino 	x	 Diego		[  ] 
- Albuquerque 	x	 Pedro		[  ] 
- Ricardo 	x	 Fernando		[  ] 
- Leticia	x	 Beltrame		[  ] 
- Derenevick 	x	 Mauricio		[  ] 
- Rodrigo 	x	 Carlos		[  ] 
- Nil 	x	 Vidotti		[  ] 
- Felipe 	x	 Bruno L.		[  ] 
- Higor 	x	 Zanelatto		[  ] 
- Stella 	x	 Zanese		[  ] 
- Cunha 	x	 Bortoli		[  ] 
- Hunas 	x	 Bosquetto		[  ] 
- Snow 	x	 Diego		[  ] 
- Branco 	x	 Pedro		[  ] 
- Umbelino 	x	 Fernando		[  ] 
- Albuquerque 	x	 Beltrame		[  ] 
- Ricardo 	x	 Mauricio		[  ] 
- Leticia	x	 Carlos		[  ] 
- Derenevick 	x	 Vidotti		[  ] 
- Rodrigo 	x	 Bruno L.		[  ] 
- Nil 	x	 Zanelatto		[  ] 
- Felipe 	x	 Zanese		[  ] 
- Higor 	x	 Bortoli		[  ] 
- Stella 	x	 Bosquetto		[  ] 
- Cunha 	x	 Hunas		[  ] 
- Snow 	x	 Pedro		[  ] 
- Diego 	x	 Fernando		[  ] 
- Branco 	x	 Beltrame		[  ] 
- Umbelino 	x	 Mauricio		[  ] 
- Albuquerque 	x	 Carlos		[  ] 
- Ricardo 	x	 Vidotti		[  ] 
- Leticia	x	 Bruno L.		[  ] 
- Derenevick 	x	 Zanelatto		[  ] 
- Rodrigo 	x	 Zanese		[  ] 
- Nil 	x	 Bortoli		[  ] 
- Felipe 	x	 Bosquetto		[  ] 
- Higor 	x	 Hunas		[  ] 
- Stella 	x	 Cunha		[  ] 
- Snow 	x	 Fernando		[  ] 
- Pedro 	x	 Beltrame		[  ] 
- Diego 	x	 Mauricio		[  ] 
- Branco 	x	 Carlos		[  ] 
- Umbelino 	x	 Vidotti		[  ] 
- Albuquerque 	x	 Bruno L.		[  ] 
- Ricardo 	x	 Zanelatto		[  ] 
- Leticia	x	 Zanese		[  ] 
- Derenevick 	x	 Bortoli		[  ] 
- Rodrigo 	x	 Bosquetto		[  ] 
- Nil 	x	 Hunas		[  ] 
- Felipe 	x	 Cunha		[  ] 
- Higor 	x	 Stella		[  ] 
- Snow 	x	 Beltrame		[  ] 
- Fernando 	x	 Mauricio		[  ] 
- Pedro 	x	 Carlos		[  ] 
- Diego 	x	 Vidotti		[  ] 
- Branco 	x	 Bruno L.		[  ] 
- Umbelino 	x	 Zanelatto		[  ] 
- Albuquerque 	x	 Zanese		[  ] 
- Ricardo 	x	 Bortoli		[  ] 
- Leticia	x	 Bosquetto		[  ] 
- Derenevick 	x	 Hunas		[  ] 
- Rodrigo 	x	 Cunha		[  ] 
- Nil 	x	 Stella		[  ] 
- Felipe 	x	 Higor		[  ] 
- Snow 	x	 Mauricio		[  ] 
- Beltrame 	x	 Carlos		[  ] 
- Fernando 	x	 Vidotti		[  ] 
- Pedro 	x	 Bruno L.		[  ] 
- Diego 	x	 Zanelatto		[  ] 
- Branco 	x	 Zanese		[  ] 
- Umbelino 	x	 Bortoli		[  ] 
- Albuquerque 	x	 Bosquetto		[  ] 
- Ricardo 	x	 Hunas		[  ] 
- Leticia	x	 Cunha		[  ] 
- Derenevick 	x	 Stella		[  ] 
- Rodrigo 	x	 Higor		[  ] 
- Nil 	x	 Felipe		[  ] 
- Snow 	x	 Carlos		[  ] 
- Mauricio	x	 Vidotti		[  ] 
- Beltrame 	x	 Bruno L.		[  ] 
- Fernando 	x	 Zanelatto		[  ] 
- Pedro 	x	 Zanese		[  ] 
- Diego 	x	 Bortoli		[  ] 
- Branco 	x	 Bosquetto		[  ] 
- Umbelino 	x	 Hunas		[  ] 
- Albuquerque 	x	 Cunha		[  ] 
- Ricardo 	x	 Stella		[  ] 
- Leticia	x	 Higor		[  ] 
- Derenevick 	x	 Felipe		[  ] 
- Rodrigo 	x	 Nil		[  ] 
  
 
 
