@@ -31,8 +31,8 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | ----------- | ----------- | ----------- | :------:
 | Snow        | Vidotti	    |	            | [ ] 
 
-| Snow        |	 Vidotti	|		|	[	]
-| Carlos 	  |	 Bruno L.	|		|	[	]
+| Snow        |	 Vidotti	 |		|	[	]
+| Carlos 	    |	 Bruno L.	|		|	[	]
 
 | Snow	| Vidotti 	|		|	[	]
 | Snow	| Vidotti 	|		|	[	]
