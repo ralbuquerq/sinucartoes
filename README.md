@@ -31,17 +31,17 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | ----------- | ----------- | ----------- | :------: 
 | Snow        | Vidotti		   |             | [ ] 
   Snow        Vidotti	[  ] 
- Carlos 	 Bruno L.	[  ] 
- Mauricio	 Zanelatto	[  ] 
+ Carlos 	   Bruno L.	[  ] 
+ Mauricio	   Zanelatto	[  ] 
  Beltrame 	 Zanese		[  ] 
  Fernando 	 Bortoli	[  ] 
  Pedro 	     Bosquetto	[  ] 
  Diego 	     Hunas		[  ] 
- Branco 	 Cunha		[  ] 
+ Branco 	   Cunha		[  ] 
  Umbelino 	 Stella		[  ] 
  Albuquerque Higor		[  ] 
- Ricardo 	 Felipe		[  ] 
- Leticia	 Nil		[  ] 
+ Ricardo 	   Felipe		[  ] 
+ Leticia	   Nil		[  ] 
  Derenevick  Rodrigo	[  ] 
 
 
