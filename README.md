@@ -1,4 +1,4 @@
-# SinuCartões 
+# SinuCartões  
 O maior campeonato internacional de sinuca da equipe de cartões e Sustentação 🤘 ⚡️ 🎱
 
 
@@ -8,22 +8,32 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 
 | PT | VT | Jogador
 | -: | -: | -------
-| 10 | 04 | Pedro
-| 09 | 03 | Maurício
-| 09 | 03 | Fernando
-| 09 | 03 | Albuquerque
-| 07 | 02 | Snow
-| 07 | 02 | Ricardo
-| 07 | 02 | Branco
-| 06 | 02 | Umbelino
-| 06 | 02 | Nil
-| 06 | 02 | Marques
-| 06 | 02 | Felipe
-| 05 | 02 | Beltrame
-| 03 | 01 | Rodrigo
-| 02 | 01 | Diego
-| 02 | 01 | Carlos
-| 02 | 00 | Derenevick
+| 00 | 00 | Pedro
+| 00 | 00 | Maurício
+| 00 | 00 | Fernando
+| 00 | 00 | Albuquerque
+| 00 | 00 | Snow
+| 00 | 00 | Ricardo
+| 00 | 00 | Branco
+| 00 | 00 | Umbelino
+| 00 | 00 | Nil
+| 00 | 00 | Felipe
+| 00 | 00 | Beltrame
+| 00 | 00 | Rodrigo
+| 00 | 00 | Diego
+| 00 | 00 | Carlos
+| 00 | 00 | Derenevick
+| 00 | 00 | Letícia
+| 00 | 00 | Higor
+| 00 | 00 | Stella
+| 00 | 00 | Cunha
+| 00 | 00 | Hunas
+| 00 | 00 | Bosquetto
+| 00 | 00 | Bortoli
+| 00 | 00 | Zanese
+| 00 | 00 | Zanelatto
+| 00 | 00 | Bruno L.
+| 00 | 00 | Vidotti
 
 ### 
 
@@ -437,7 +447,7 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 ## Formato do campeonado
 
 ### 1º Classificatória
-Primeiramente todos os jogadores irão jogar de 3 vezes pontuando para a fase de mata-mata
+Primeiramente todos os jogadores irão jogar contra todos pontuando para a fase de mata-mata
 
 #### Pontuação:
 A cada partida serão distribuidos 3 pontos entre os jogadores. Se no final da partida nenhuma bola ficar na mesa fica configurado vitória sem vantagem.
