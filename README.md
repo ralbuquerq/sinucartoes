@@ -54,9 +54,17 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | Fernando    | Marques     | Fernando    | [X]
 | Derenevick  | Beltrame    | Beltrame    | [ ]
 
-|	Snow	|	Vidotti	|		|	[	]
-|	Carlos	|	Bruno L.	|		|	[	]
+|	Snow		|	Vidotti		|		|	[	]
+|	Carlos		|	Bruno L.	|		|	[	]
 |	Mauricio	|	Zanelatto	|		|	[	]
+|	Beltrame	|	Zanese		|		|	[	]
+|	Fernando	|	Bortoli		|		|	[	]
+|	Pedro		|	Bosquetto	|		|	[	]
+|	Diego		|	Hunas		|		|	[	]
+|	Branco		|	Cunha		|		|	[	]
+|	Umbelino	|	Stella		|		|	[	]
+|	Albuquerque	|	Higor		|		|	[	]
+|	Ricardo		|	Felipe		|		|	[	]
  
 
 
