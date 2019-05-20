@@ -30,20 +30,19 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------: 
 | Snow        | Vidotti		   |             | [ ] 
- Snow   Vidotti		[  ] 
- Carlos 	 Bruno L.		[  ] 
- Mauricio	 Zanelatto		[  ] 
+  Snow        Vidotti	[  ] 
+ Carlos 	 Bruno L.	[  ] 
+ Mauricio	 Zanelatto	[  ] 
  Beltrame 	 Zanese		[  ] 
- Fernando 	 Bortoli		[  ] 
- Pedro 	 Bosquetto		[  ] 
- Diego 	 Hunas		[  ] 
+ Fernando 	 Bortoli	[  ] 
+ Pedro 	     Bosquetto	[  ] 
+ Diego 	     Hunas		[  ] 
  Branco 	 Cunha		[  ] 
  Umbelino 	 Stella		[  ] 
- Albuquerque 	 Higor		[  ] 
+ Albuquerque Higor		[  ] 
  Ricardo 	 Felipe		[  ] 
  Leticia	 Nil		[  ] 
- Derenevick 	 Rodrigo		[  ] 
-
+ Derenevick  Rodrigo	[  ] 
 
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
