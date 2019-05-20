@@ -35,6 +35,10 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 |	Snow	|	Vidotti		|		|	[	]
 |	Snow	|	Vidotti		|		|	[	]
 
+| Snow	| Vidotti 	|		|	[	]
+| Snow	| Vidotti 	|		|	[	]
+| Snow	| Vidotti 	|		|	[	]
+
 | Carlos      | Bruno L.		  |             | [ ] 
 | Mauricio	   | Zanelatto		 |             | [ ] 
 | Beltrame 	x	 Zanese		[  ] 
