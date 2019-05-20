@@ -27,6 +27,22 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 
 ### "Primeira" rodada
 
+JOGADOR 1	JOGADOR 2	VENCEDOR	VANTAGEM
+ Snow                   	 Vidotti		[  ] 
+ Carlos 	 Bruno L.		[  ] 
+ Mauricio	 Zanelatto		[  ] 
+ Beltrame 	 Zanese		[  ] 
+ Fernando 	 Bortoli		[  ] 
+ Pedro 	 Bosquetto		[  ] 
+ Diego 	 Hunas		[  ] 
+ Branco 	 Cunha		[  ] 
+ Umbelino 	 Stella		[  ] 
+ Albuquerque 	 Higor		[  ] 
+ Ricardo 	 Felipe		[  ] 
+ Leticia	 Nil		[  ] 
+ Derenevick 	 Rodrigo		[  ] 
+
+
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
 | Branco      | Umbelino    | Umbelino    | [ ]
