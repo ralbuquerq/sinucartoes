@@ -32,6 +32,9 @@
 | Albuquerque | Nil         |          |   [ ]    |
 | Ricardo     | Rodrigo     |          |   [ ]    |
 | Leticia     | Derenevick  |          |   [ ]    |
+
+| RODADA 3    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Zanelatto   |          |   [ ]    |
 | Bruno L.    | Zanese      |          |   [ ]    |
 | Vidotti     | Bortoli     |          |   [ ]    |
@@ -45,6 +48,9 @@
 | Umbelino    | Rodrigo     |          |   [ ]    |
 | Albuquerque | Derenevick  |          |   [ ]    |
 | Ricardo     | Leticia     |          |   [ ]    |
+
+| RODADA 4    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Zanese      |          |   [ ]    |
 | Zanelatto   | Bortoli     |          |   [ ]    |
 | Bruno L.    | Bosquetto   |          |   [ ]    |
@@ -58,6 +64,9 @@
 | Branco      | Derenevick  |          |   [ ]    |
 | Umbelino    | Leticia     |          |   [ ]    |
 | Albuquerque | Ricardo     |          |   [ ]    |
+
+| RODADA 5    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Bortoli     |          |   [ ]    |
 | Zanese      | Bosquetto   |          |   [ ]    |
 | Zanelatto   | Hunas       |          |   [ ]    |
@@ -71,6 +80,9 @@
 | Diego       | Leticia     |          |   [ ]    |
 | Branco      | Ricardo     |          |   [ ]    |
 | Umbelino    | Albuquerque |          |   [ ]    |
+
+| RODADA 6    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Bosquetto   |          |   [ ]    |
 | Bortoli     | Hunas       |          |   [ ]    |
 | Zanese      | Cunha       |          |   [ ]    |
@@ -84,6 +96,9 @@
 | Pedro       | Ricardo     |          |   [ ]    |
 | Diego       | Albuquerque |          |   [ ]    |
 | Branco      | Umbelino    |          |   [ ]    |
+
+| RODADA 2    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Hunas       |          |   [ ]    |
 | Bosquetto   | Cunha       |          |   [ ]    |
 | Bortoli     | Stella      |          |   [ ]    |
@@ -97,6 +112,9 @@
 | Fernando    | Albuquerque |          |   [ ]    |
 | Pedro       | Umbelino    |          |   [ ]    |
 | Diego       | Branco      |          |   [ ]    |
+
+| RODADA 8    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Cunha       |          |   [ ]    |
 | Hunas       | Stella      |          |   [ ]    |
 | Bosquetto   | Higor       |          |   [ ]    |
@@ -110,6 +128,9 @@
 | Beltrame    | Umbelino    |          |   [ ]    |
 | Fernando    | Branco      |          |   [ ]    |
 | Pedro       | Diego       |          |   [ ]    |
+
+| RODADA 9    | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Stella      |          |   [ ]    |
 | Cunha       | Higor       |          |   [ ]    |
 | Hunas       | Felipe      |          |   [ ]    |
@@ -123,6 +144,9 @@
 | Mauricio    | Branco      |          |   [ ]    |
 | Beltrame    | Diego       |          |   [ ]    |
 | Fernando    | Pedro       |          |   [ ]    |
+
+| RODADA 10   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Higor       |          |   [ ]    |
 | Stella      | Felipe      |          |   [ ]    |
 | Cunha       | Nil         |          |   [ ]    |
@@ -136,6 +160,9 @@
 | Carlos      | Diego       |          |   [ ]    |
 | Mauricio    | Pedro       |          |   [ ]    |
 | Beltrame    | Fernando    |          |   [ ]    |
+
+| RODADA 11   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Felipe      |          |   [ ]    |
 | Higor       | Nil         |          |   [ ]    |
 | Stella      | Rodrigo     |          |   [ ]    |
@@ -149,6 +176,9 @@
 | Vidotti     | Pedro       |          |   [ ]    |
 | Carlos      | Fernando    |          |   [ ]    |
 | Mauricio    | Beltrame    |          |   [ ]    |
+
+| RODADA 12   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Nil         |          |   [ ]    |
 | Felipe      | Rodrigo     |          |   [ ]    |
 | Higor       | Derenevick  |          |   [ ]    |
@@ -162,6 +192,9 @@
 | Bruno L.    | Fernando    |          |   [ ]    |
 | Vidotti     | Beltrame    |          |   [ ]    |
 | Carlos      | Mauricio    |          |   [ ]    |
+
+| RODADA 13   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Rodrigo     |          |   [ ]    |
 | Nil         | Derenevick  |          |   [ ]    |
 | Felipe      | Leticia     |          |   [ ]    |
@@ -175,6 +208,9 @@
 | Zanelatto   | Beltrame    |          |   [ ]    |
 | Bruno L.    | Mauricio    |          |   [ ]    |
 | Vidotti     | Carlos      |          |   [ ]    |
+
+| RODADA 14   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Derenevick  |          |   [ ]    |
 | Rodrigo     | Leticia     |          |   [ ]    |
 | Nil         | Ricardo     |          |   [ ]    |
@@ -188,6 +224,9 @@
 | Zanese      | Mauricio    |          |   [ ]    |
 | Zanelatto   | Carlos      |          |   [ ]    |
 | Bruno L.    | Vidotti     |          |   [ ]    |
+
+| RODADA 15   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Leticia     |          |   [ ]    |
 | Derenevick  | Ricardo     |          |   [ ]    |
 | Rodrigo     | Albuquerque |          |   [ ]    |
@@ -201,6 +240,9 @@
 | Bortoli     | Carlos      |          |   [ ]    |
 | Zanese      | Vidotti     |          |   [ ]    |
 | Zanelatto   | Bruno L.    |          |   [ ]    |
+
+| RODADA 16   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Ricardo     |          |   [ ]    |
 | Leticia     | Albuquerque |          |   [ ]    |
 | Derenevick  | Umbelino    |          |   [ ]    |
@@ -214,6 +256,9 @@
 | Bosquetto   | Vidotti     |          |   [ ]    |
 | Bortoli     | Bruno L.    |          |   [ ]    |
 | Zanese      | Zanelatto   |          |   [ ]    |
+
+| RODADA 17   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Albuquerque |          |   [ ]    |
 | Ricardo     | Umbelino    |          |   [ ]    |
 | Leticia     | Branco      |          |   [ ]    |
@@ -227,6 +272,9 @@
 | Hunas       | Bruno L.    |          |   [ ]    |
 | Bosquetto   | Zanelatto   |          |   [ ]    |
 | Bortoli     | Zanese      |          |   [ ]    |
+
+| RODADA 18   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Umbelino    |          |   [ ]    |
 | Albuquerque | Branco      |          |   [ ]    |
 | Ricardo     | Diego       |          |   [ ]    |
@@ -240,6 +288,9 @@
 | Cunha       | Zanelatto   |          |   [ ]    |
 | Hunas       | Zanese      |          |   [ ]    |
 | Bosquetto   | Bortoli     |          |   [ ]    |
+
+| RODADA 19   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Branco      |          |   [ ]    |
 | Umbelino    | Diego       |          |   [ ]    |
 | Albuquerque | Pedro       |          |   [ ]    |
@@ -253,6 +304,9 @@
 | Stella      | Zanese      |          |   [ ]    |
 | Cunha       | Bortoli     |          |   [ ]    |
 | Hunas       | Bosquetto   |          |   [ ]    |
+
+| RODADA 20   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Diego       |          |   [ ]    |
 | Branco      | Pedro       |          |   [ ]    |
 | Umbelino    | Fernando    |          |   [ ]    |
@@ -266,6 +320,9 @@
 | Higor       | Bortoli     |          |   [ ]    |
 | Stella      | Bosquetto   |          |   [ ]    |
 | Cunha       | Hunas       |          |   [ ]    |
+
+| RODADA 21   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Pedro       |          |   [ ]    |
 | Diego       | Fernando    |          |   [ ]    |
 | Branco      | Beltrame    |          |   [ ]    |
@@ -279,6 +336,9 @@
 | Felipe      | Bosquetto   |          |   [ ]    |
 | Higor       | Hunas       |          |   [ ]    |
 | Stella      | Cunha       |          |   [ ]    |
+
+| RODADA 22   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Fernando    |          |   [ ]    |
 | Pedro       | Beltrame    |          |   [ ]    |
 | Diego       | Mauricio    |          |   [ ]    |
@@ -292,6 +352,9 @@
 | Nil         | Hunas       |          |   [ ]    |
 | Felipe      | Cunha       |          |   [ ]    |
 | Higor       | Stella      |          |   [ ]    |
+
+| RODADA 23   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Beltrame    |          |   [ ]    |
 | Fernando    | Mauricio    |          |   [ ]    |
 | Pedro       | Carlos      |          |   [ ]    |
@@ -305,6 +368,9 @@
 | Rodrigo     | Cunha       |          |   [ ]    |
 | Nil         | Stella      |          |   [ ]    |
 | Felipe      | Higor       |          |   [ ]    |
+
+| RODADA 24   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Mauricio    |          |   [ ]    |
 | Beltrame    | Carlos      |          |   [ ]    |
 | Fernando    | Vidotti     |          |   [ ]    |
@@ -318,6 +384,9 @@
 | Derenevick  | Stella      |          |   [ ]    |
 | Rodrigo     | Higor       |          |   [ ]    |
 | Nil         | Felipe      |          |   [ ]    |
+
+| RODADA 25   | ----------- | -------- | ---------|
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Carlos      |          |   [ ]    |
 | Mauricio    | Vidotti     |          |   [ ]    |
 | Beltrame    | Bruno L.    |          |   [ ]    |
