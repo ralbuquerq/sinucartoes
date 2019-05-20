@@ -15,7 +15,7 @@
 | Derenevick  | Rodrigo     |          |   [ ]    |
 
 | Rodada 2    |
-| ----------- |
+| ----------- | ----------- | -------- | :------: |
 | Snow        | Bruno L.    |          |   [ ]    |
 | Vidotti     | Zanelatto   |          |   [ ]    |
 | Carlos      | Zanese      |          |   [ ]    |
