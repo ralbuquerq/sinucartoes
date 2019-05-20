@@ -1,6 +1,6 @@
 | Player 1    | Player 2    | Vencedor | Vantagem |
-| RODADA 1    | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
+| RODADA 1    | ----------- | -------- | ---------|
 | Snow        | Vidotti     |          |   [ ]    |
 | Carlos      | Bruno L.    |          |   [ ]    |
 | Mauricio    | Zanelatto   |          |   [ ]    |
