@@ -30,6 +30,11 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
 | Snow        | Vidotti	    |	            | [ ] 
+
+|	Snow	|	Vidotti		|		|	[	]
+|	Snow	|	Vidotti		|		|	[	]
+|	Snow	|	Vidotti		|		|	[	]
+
 | Carlos      | Bruno L.		  |             | [ ] 
 | Mauricio	   | Zanelatto		 |             | [ ] 
 | Beltrame 	x	 Zanese		[  ] 
