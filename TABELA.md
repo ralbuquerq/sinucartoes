@@ -14,7 +14,7 @@
 | Leticia     | Nil         |          |   [ ]    |
 | Derenevick  | Rodrigo     |          |   [ ]    |
 
-| Rodada 2    |
+| Rodada 2    | ----------------------------------|
 | ----------- | ----------- | -------- | :------: |
 | Snow        | Bruno L.    |          |   [ ]    |
 | Vidotti     | Zanelatto   |          |   [ ]    |
