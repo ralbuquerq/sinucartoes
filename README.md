@@ -27,6 +27,8 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 
 ### "Primeira" rodada
 
+| Jogador 1   | Jogador 2   | Vencedor    | Vantagem
+| ----------- | ----------- | ----------- | :------:
 | Snow|   Vidotti      |      |   [   ]
 |   Carlos      |   Bruno L.   |      |   [   ]
 |   Mauricio   |   Zanelatto   |      |   [   ]
@@ -43,7 +45,6 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 |   Snow   |   Bruno L.   |      |   [   ]
 |   Vidotti   |   Zanelatto   |      |   [   ]
 |   Carlos   |   Zanese   |      |   [   ]
-|   Mauricio   |   Bortoli   |      |   [   ]
 
 | Jogador 1   | Jogador 2   | Vencedor    | Vantagem
 | ----------- | ----------- | ----------- | :------:
