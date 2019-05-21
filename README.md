@@ -1,5 +1,5 @@
-# SinuCartões  
-O maior campeonato internacional de sinuca da equipe de cartões e Sustentação 🤘 ⚡️ 🎱
+# SinuCard&Support  
+O maior campeonato internacional de sinuca das equipes cartões e Sustentação 🤘 ⚡️ 🎱
 
 ######
 **
