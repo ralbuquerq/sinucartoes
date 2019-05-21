@@ -64,7 +64,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | Bruno L.
 | 00 | 00 | Vidotti
 
-### 1º FASE - Classificatória
+### 1º FASE
 
 | Player 1    | Player 2    | Vencedor | Vantagem |
 | ----------- | ----------- | -------- | :------: |
