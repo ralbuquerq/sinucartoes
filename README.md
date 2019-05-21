@@ -1,7 +1,36 @@
 # SinuCartões  
 O maior campeonato internacional de sinuca da equipe de cartões e Sustentação 🤘 ⚡️ 🎱
 
+######
+**
+######
 
+## Regras
+**As regras de cada partida devem ser combinadas entre os jogadores**
+
+## Formato do campeonado
+
+### 1º Classificatória
+Primeiramente todos os jogadores irão jogar contra todos pontuando para a fase de mata-mata
+
+#### Pontuação:
+A cada partida serão distribuidos 3 pontos entre os jogadores. Se no final da partida nenhuma bola ficar na mesa fica configurado vitória sem vantagem.
+
+Tipo | Pontuação
+---- | ---------
+Vitória com vantagem | 3
+Vitória sem vantagem | 2
+Derrota sem vantagem | 1
+
+```javascript
+if (numeroDeBolasNaMesa > 0) {
+    vencedor = 3;
+    perdedor = 0;
+} else {
+    vencedor = 2;
+    perdedor = 1;
+} 
+```
 ```
 
 ## Classificação Atual
@@ -26,11 +55,11 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | 00 | 00 | Letícia
 | 00 | 00 | Higor
 | 00 | 00 | Stella
-| 00 | 00 | Cunha
-| 00 | 00 | Hunas
-| 00 | 00 | Bosquetto
-| 00 | 00 | Bortoli
-| 00 | 00 | Zanese
+| 00 | 00 | Cunha (Bruno)
+| 00 | 00 | Hunas (Felipe)
+| 00 | 00 | Bosquetto (Marcio)
+| 00 | 00 | Bortoli (André)
+| 00 | 00 | Zanese (Paulo)
 | 00 | 00 | Zanelatto
 | 00 | 00 | Bruno L.
 | 00 | 00 | Vidotti
@@ -441,32 +470,7 @@ O maior campeonato internacional de sinuca da equipe de cartões e Sustentação
 | Rodrigo     | Nil         |          |   [ ]    |
 
 
-## Regras
-**As regras de cada partida devem ser combinadas entre os jogadores**
-
-## Formato do campeonado
-
-### 1º Classificatória
-Primeiramente todos os jogadores irão jogar contra todos pontuando para a fase de mata-mata
-
-#### Pontuação:
-A cada partida serão distribuidos 3 pontos entre os jogadores. Se no final da partida nenhuma bola ficar na mesa fica configurado vitória sem vantagem.
-
-Tipo | Pontuação
----- | ---------
-Vitória com vantagem | 3
-Vitória sem vantagem | 2
-Derrota sem vantagem | 1
-
-```javascript
-if (numeroDeBolasNaMesa > 0) {
-    vencedor = 3;
-    perdedor = 0;
-} else {
-    vencedor = 2;
-    perdedor = 1;
-} 
-```
+####################### - Fim da 1 Fase - ########################################
 
 ### 2º Mata-mata
 
