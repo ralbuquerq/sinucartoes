@@ -60,7 +60,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | Bosquetto (Marcio)
 | 00 | 00 | Bortoli (André)
 | 00 | 00 | Zanese (Paulo)
-| 00 | 00 | Zanelatto
+| 00 | 00 | Zanellato
 | 00 | 00 | Bruno L.
 | 00 | 00 | Vidotti
 
@@ -73,7 +73,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: |
 | Snow        | Vidotti     |          |   [ ]    |
 | Carlos      | Bruno L.    |          |   [ ]    |
-| Mauricio    | Zanelatto   |          |   [ ]    |
+| Mauricio    | Zanellato   |          |   [ ]    |
 | Beltrame    | Zanese      |          |   [ ]    |
 | Fernando    | Bortoli     |          |   [ ]    |
 | Pedro       | Bosquetto   |          |   [ ]    |
@@ -88,7 +88,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 2    | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
 | Snow        | Bruno L.    |          |   [ ]    |
-| Vidotti     | Zanelatto   |          |   [ ]    |
+| Vidotti     | Zanellato   |          |   [ ]    |
 | Carlos      | Zanese      |          |   [ ]    |
 | Mauricio    | Bortoli     |          |   [ ]    |
 | Beltrame    | Bosquetto   |          |   [ ]    |
@@ -103,7 +103,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | RODADA 3    | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
-| Snow        | Zanelatto   |          |   [ ]    |
+| Snow        | Zanellato   |          |   [ ]    |
 | Bruno L.    | Zanese      |          |   [ ]    |
 | Vidotti     | Bortoli     |          |   [ ]    |
 | Carlos      | Bosquetto   |          |   [ ]    |
@@ -120,7 +120,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 4    | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
 | Snow        | Zanese      |          |   [ ]    |
-| Zanelatto   | Bortoli     |          |   [ ]    |
+| Zanellato   | Bortoli     |          |   [ ]    |
 | Bruno L.    | Bosquetto   |          |   [ ]    |
 | Vidotti     | Hunas       |          |   [ ]    |
 | Carlos      | Cunha       |          |   [ ]    |
@@ -137,7 +137,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: |
 | Snow        | Bortoli     |          |   [ ]    |
 | Zanese      | Bosquetto   |          |   [ ]    |
-| Zanelatto   | Hunas       |          |   [ ]    |
+| Zanellato   | Hunas       |          |   [ ]    |
 | Bruno L.    | Cunha       |          |   [ ]    |
 | Vidotti     | Stella      |          |   [ ]    |
 | Carlos      | Higor       |          |   [ ]    |
@@ -154,7 +154,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Bosquetto   |          |   [ ]    |
 | Bortoli     | Hunas       |          |   [ ]    |
 | Zanese      | Cunha       |          |   [ ]    |
-| Zanelatto   | Stella      |          |   [ ]    |
+| Zanellato   | Stella      |          |   [ ]    |
 | Bruno L.    | Higor       |          |   [ ]    |
 | Vidotti     | Felipe      |          |   [ ]    |
 | Carlos      | Nil         |          |   [ ]    |
@@ -171,7 +171,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Cunha       |          |   [ ]    |
 | Bortoli     | Stella      |          |   [ ]    |
 | Zanese      | Higor       |          |   [ ]    |
-| Zanelatto   | Felipe      |          |   [ ]    |
+| Zanellato   | Felipe      |          |   [ ]    |
 | Bruno L.    | Nil         |          |   [ ]    |
 | Vidotti     | Rodrigo     |          |   [ ]    |
 | Carlos      | Derenevick  |          |   [ ]    |
@@ -188,7 +188,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Higor       |          |   [ ]    |
 | Bortoli     | Felipe      |          |   [ ]    |
 | Zanese      | Nil         |          |   [ ]    |
-| Zanelatto   | Rodrigo     |          |   [ ]    |
+| Zanellato   | Rodrigo     |          |   [ ]    |
 | Bruno L.    | Derenevick  |          |   [ ]    |
 | Vidotti     | Leticia     |          |   [ ]    |
 | Carlos      | Ricardo     |          |   [ ]    |
@@ -205,7 +205,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Nil         |          |   [ ]    |
 | Bortoli     | Rodrigo     |          |   [ ]    |
 | Zanese      | Derenevick  |          |   [ ]    |
-| Zanelatto   | Leticia     |          |   [ ]    |
+| Zanellato   | Leticia     |          |   [ ]    |
 | Bruno L.    | Ricardo     |          |   [ ]    |
 | Vidotti     | Albuquerque |          |   [ ]    |
 | Carlos      | Umbelino    |          |   [ ]    |
@@ -222,7 +222,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Derenevick  |          |   [ ]    |
 | Bortoli     | Leticia     |          |   [ ]    |
 | Zanese      | Ricardo     |          |   [ ]    |
-| Zanelatto   | Albuquerque |          |   [ ]    |
+| Zanellato   | Albuquerque |          |   [ ]    |
 | Bruno L.    | Umbelino    |          |   [ ]    |
 | Vidotti     | Branco      |          |   [ ]    |
 | Carlos      | Diego       |          |   [ ]    |
@@ -239,7 +239,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Ricardo     |          |   [ ]    |
 | Bortoli     | Albuquerque |          |   [ ]    |
 | Zanese      | Umbelino    |          |   [ ]    |
-| Zanelatto   | Branco      |          |   [ ]    |
+| Zanellato   | Branco      |          |   [ ]    |
 | Bruno L.    | Diego       |          |   [ ]    |
 | Vidotti     | Pedro       |          |   [ ]    |
 | Carlos      | Fernando    |          |   [ ]    |
@@ -256,7 +256,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Umbelino    |          |   [ ]    |
 | Bortoli     | Branco      |          |   [ ]    |
 | Zanese      | Diego       |          |   [ ]    |
-| Zanelatto   | Pedro       |          |   [ ]    |
+| Zanellato   | Pedro       |          |   [ ]    |
 | Bruno L.    | Fernando    |          |   [ ]    |
 | Vidotti     | Beltrame    |          |   [ ]    |
 | Carlos      | Mauricio    |          |   [ ]    |
@@ -273,7 +273,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Diego       |          |   [ ]    |
 | Bortoli     | Pedro       |          |   [ ]    |
 | Zanese      | Fernando    |          |   [ ]    |
-| Zanelatto   | Beltrame    |          |   [ ]    |
+| Zanellato   | Beltrame    |          |   [ ]    |
 | Bruno L.    | Mauricio    |          |   [ ]    |
 | Vidotti     | Carlos      |          |   [ ]    |
 
@@ -290,7 +290,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Fernando    |          |   [ ]    |
 | Bortoli     | Beltrame    |          |   [ ]    |
 | Zanese      | Mauricio    |          |   [ ]    |
-| Zanelatto   | Carlos      |          |   [ ]    |
+| Zanellato   | Carlos      |          |   [ ]    |
 | Bruno L.    | Vidotti     |          |   [ ]    |
 
 | RODADA 15   | ----------- | -------- | ---------|
@@ -307,7 +307,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bosquetto   | Mauricio    |          |   [ ]    |
 | Bortoli     | Carlos      |          |   [ ]    |
 | Zanese      | Vidotti     |          |   [ ]    |
-| Zanelatto   | Bruno L.    |          |   [ ]    |
+| Zanellato   | Bruno L.    |          |   [ ]    |
 
 | RODADA 16   | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
@@ -323,7 +323,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Hunas       | Carlos      |          |   [ ]    |
 | Bosquetto   | Vidotti     |          |   [ ]    |
 | Bortoli     | Bruno L.    |          |   [ ]    |
-| Zanese      | Zanelatto   |          |   [ ]    |
+| Zanese      | Zanellato   |          |   [ ]    |
 
 | RODADA 17   | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
@@ -338,7 +338,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Stella      | Carlos      |          |   [ ]    |
 | Cunha       | Vidotti     |          |   [ ]    |
 | Hunas       | Bruno L.    |          |   [ ]    |
-| Bosquetto   | Zanelatto   |          |   [ ]    |
+| Bosquetto   | Zanellato   |          |   [ ]    |
 | Bortoli     | Zanese      |          |   [ ]    |
 
 | RODADA 18   | ----------- | -------- | ---------|
@@ -353,7 +353,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Felipe      | Carlos      |          |   [ ]    |
 | Higor       | Vidotti     |          |   [ ]    |
 | Stella      | Bruno L.    |          |   [ ]    |
-| Cunha       | Zanelatto   |          |   [ ]    |
+| Cunha       | Zanellato   |          |   [ ]    |
 | Hunas       | Zanese      |          |   [ ]    |
 | Bosquetto   | Bortoli     |          |   [ ]    |
 
@@ -368,7 +368,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Carlos      |          |   [ ]    |
 | Nil         | Vidotti     |          |   [ ]    |
 | Felipe      | Bruno L.    |          |   [ ]    |
-| Higor       | Zanelatto   |          |   [ ]    |
+| Higor       | Zanellato   |          |   [ ]    |
 | Stella      | Zanese      |          |   [ ]    |
 | Cunha       | Bortoli     |          |   [ ]    |
 | Hunas       | Bosquetto   |          |   [ ]    |
@@ -383,7 +383,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Carlos      |          |   [ ]    |
 | Derenevick  | Vidotti     |          |   [ ]    |
 | Rodrigo     | Bruno L.    |          |   [ ]    |
-| Nil         | Zanelatto   |          |   [ ]    |
+| Nil         | Zanellato   |          |   [ ]    |
 | Felipe      | Zanese      |          |   [ ]    |
 | Higor       | Bortoli     |          |   [ ]    |
 | Stella      | Bosquetto   |          |   [ ]    |
@@ -398,7 +398,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Albuquerque | Carlos      |          |   [ ]    |
 | Ricardo     | Vidotti     |          |   [ ]    |
 | Leticia     | Bruno L.    |          |   [ ]    |
-| Derenevick  | Zanelatto   |          |   [ ]    |
+| Derenevick  | Zanellato   |          |   [ ]    |
 | Rodrigo     | Zanese      |          |   [ ]    |
 | Nil         | Bortoli     |          |   [ ]    |
 | Felipe      | Bosquetto   |          |   [ ]    |
@@ -413,7 +413,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Branco      | Carlos      |          |   [ ]    |
 | Umbelino    | Vidotti     |          |   [ ]    |
 | Albuquerque | Bruno L.    |          |   [ ]    |
-| Ricardo     | Zanelatto   |          |   [ ]    |
+| Ricardo     | Zanellato   |          |   [ ]    |
 | Leticia     | Zanese      |          |   [ ]    |
 | Derenevick  | Bortoli     |          |   [ ]    |
 | Rodrigo     | Bosquetto   |          |   [ ]    |
@@ -428,7 +428,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Pedro       | Carlos      |          |   [ ]    |
 | Diego       | Vidotti     |          |   [ ]    |
 | Branco      | Bruno L.    |          |   [ ]    |
-| Umbelino    | Zanelatto   |          |   [ ]    |
+| Umbelino    | Zanellato   |          |   [ ]    |
 | Albuquerque | Zanese      |          |   [ ]    |
 | Ricardo     | Bortoli     |          |   [ ]    |
 | Leticia     | Bosquetto   |          |   [ ]    |
@@ -443,7 +443,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Beltrame    | Carlos      |          |   [ ]    |
 | Fernando    | Vidotti     |          |   [ ]    |
 | Pedro       | Bruno L.    |          |   [ ]    |
-| Diego       | Zanelatto   |          |   [ ]    |
+| Diego       | Zanellato   |          |   [ ]    |
 | Branco      | Zanese      |          |   [ ]    |
 | Umbelino    | Bortoli     |          |   [ ]    |
 | Albuquerque | Bosquetto   |          |   [ ]    |
@@ -458,7 +458,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Carlos      |          |   [ ]    |
 | Mauricio    | Vidotti     |          |   [ ]    |
 | Beltrame    | Bruno L.    |          |   [ ]    |
-| Fernando    | Zanelatto   |          |   [ ]    |
+| Fernando    | Zanellato   |          |   [ ]    |
 | Pedro       | Zanese      |          |   [ ]    |
 | Diego       | Bortoli     |          |   [ ]    |
 | Branco      | Bosquetto   |          |   [ ]    |
