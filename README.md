@@ -8,6 +8,8 @@ O maior campeonato internacional de sinuca das equipes cartões e Sustentação 
 ## Regras
 **As regras de cada partida devem ser combinadas entre os jogadores**
 
+**<<<Numero de bolas de vantagem será um critério de desempate (Tipo um saldo de gols)>>
+
 ## Formato do campeonato
 
 ### 1º Classificatória
