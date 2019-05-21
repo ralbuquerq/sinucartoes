@@ -8,7 +8,7 @@ O maior campeonato internacional de sinuca das equipes cartões e Sustentação 
 ## Regras
 **As regras de cada partida devem ser combinadas entre os jogadores**
 
-## Formato do campeonado
+## Formato do campeonato
 
 ### 1º Classificatória
 Primeiramente todos os jogadores irão jogar contra todos pontuando para a fase de mata-mata
