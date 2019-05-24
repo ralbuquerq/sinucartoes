@@ -39,13 +39,15 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 05 | 02 |  1 | Diego
-| 02 | 04 | 01 |  2 | Derenevick
-| 03 | 00 | 00 | -3 | Branco
+| 01 | 08 | 03 |  6 | Maurício
+| 02 | 05 | 02 |  1 | Diego
+| 03 | 04 | 01 |  2 | Derenevick
+| 04 | 04 | 01 |  0 | Albuquerque
+| 05 | 03 | 01 |  3 | Hunas (Felipe)
+| 06 | 00 | 00 | -3 | Branco
+| 07 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
-| 00 | 00 | 00 | 00 | Maurício
 | 00 | 00 | 00 | 00 | Fernando
-| 00 | 00 | 00 | 00 | Albuquerque
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
 | 00 | 00 | 00 | 00 | Umbelino
@@ -58,9 +60,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
-| 00 | 00 | 00 | 00 | Hunas (Felipe)
 | 00 | 00 | 00 | 00 | Bosquetto (Marcio)
-| 00 | 00 | 00 | 00 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Zanese (Paulo)
 | 00 | 00 | 00 | 00 | Zanellato
 | 00 | 00 | 00 | 00 | Bruno L.
@@ -92,7 +92,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Bruno L.    |          |   [ ]    |   [ ]    |
 | Vidotti     | Zanellato   |          |   [ ]    |   [ ]    |
 | Carlos      | Zanese      |          |   [ ]    |   [ ]    |
-| Mauricio    | Bortoli     |          |   [ ]    |   [ ]    |
+| Mauricio    | Bortoli     | Mauricio |   [x]    |   [3]    |
 | Beltrame    | Bosquetto   |          |   [ ]    |   [ ]    |
 | Fernando    | Hunas       |          |   [ ]    |   [ ]    |
 | Pedro       | Cunha       |          |   [ ]    |   [ ]    |
@@ -109,7 +109,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bruno L.    | Zanese      |          |   [ ]    |   [ ]    |
 | Vidotti     | Bortoli     |          |   [ ]    |   [ ]    |
 | Carlos      | Bosquetto   |          |   [ ]    |   [ ]    |
-| Mauricio    | Hunas       |          |   [ ]    |   [ ]    |
+| Mauricio    | Hunas       | Mauricio |   [x]    |   [3]    |
 | Beltrame    | Cunha       |          |   [ ]    |   [ ]    |
 | Fernando    | Stella      |          |   [ ]    |   [ ]    |
 | Pedro       | Higor       |          |   [ ]    |   [ ]    |
@@ -194,7 +194,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bruno L.    | Derenevick  |          |   [ ]    |   [ ]    |
 | Vidotti     | Leticia     |          |   [ ]    |   [ ]    |
 | Carlos      | Ricardo     |          |   [ ]    |   [ ]    |
-| Mauricio    | Albuquerque |          |   [ ]    |   [ ]    |
+| Mauricio    | Albuquerque | Mauricio |   [ ]    |   [0]    |
 | Beltrame    | Umbelino    |          |   [ ]    |   [ ]    |
 | Fernando    | Branco      |          |   [ ]    |   [ ]    |
 | Pedro       | Diego       |          |   [ ]    |   [ ]    |
@@ -239,7 +239,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Cunha       | Derenevick  |          |   [ ]    |   [ ]    |
 | Hunas       | Leticia     |          |   [ ]    |   [ ]    |
 | Bosquetto   | Ricardo     |          |   [ ]    |   [ ]    |
-| Bortoli     | Albuquerque |          |   [ ]    |   [ ]    |
+| Bortoli     | Albuquerque |Albuquerqu|   [x]    |   [3]    |
 | Zanese      | Umbelino    |          |   [ ]    |   [ ]    |
 | Zanellato   | Branco      |          |   [ ]    |   [ ]    |
 | Bruno L.    | Diego       |          |   [ ]    |   [ ]    |
@@ -254,7 +254,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Higor       | Derenevick  |          |   [ ]    |   [ ]    |
 | Stella      | Leticia     |          |   [ ]    |   [ ]    |
 | Cunha       | Ricardo     |          |   [ ]    |   [ ]    |
-| Hunas       | Albuquerque |          |   [ ]    |   [ ]    |
+| Hunas       | Albuquerque | Hunas    |   [x]    |   [3]    |
 | Bosquetto   | Umbelino    |          |   [ ]    |   [ ]    |
 | Bortoli     | Branco      |          |   [ ]    |   [ ]    |
 | Zanese      | Diego       |          |   [ ]    |   [ ]    |
