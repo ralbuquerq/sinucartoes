@@ -39,15 +39,15 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 03 | 01 | 02 | Derenevick
-| 02 | 03 | 01 | 01 | Diego
+| 01 | 05 | 02 |  1 | Diego
+| 02 | 04 | 01 |  2 | Derenevick
+| 03 | 01 | 00 | -3 | Branco
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Maurício
 | 00 | 00 | 00 | 00 | Fernando
 | 00 | 00 | 00 | 00 | Albuquerque
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
-| 00 | 00 | 00 | 00 | Branco
 | 00 | 00 | 00 | 00 | Umbelino
 | 00 | 00 | 00 | 00 | Nil
 | 00 | 00 | 00 | 00 | Felipe
@@ -302,6 +302,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Albuquerque |          |   [ ]    |   [ ]    |
 | Nil         | Umbelino    |          |   [ ]    |   [ ]    |
 | Stella      | Pedro       |          |   [ ]    |   [ ]    |
+| Branco      | Diego       |          |   [ ]    |   [ ]    |
 | Cunha       | Fernando    |          |   [ ]    |   [ ]    |
 | Hunas       | Beltrame    |          |   [ ]    |   [ ]    |
 | Bosquetto   | Mauricio    |          |   [ ]    |   [ ]    |
@@ -330,7 +331,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Albuquerque |          |   [ ]    |   [ ]    |
 | Ricardo     | Umbelino    |          |   [ ]    |   [ ]    |
 | Leticia     | Branco      |          |   [ ]    |   [ ]    |
-| Derenevick  | Diego       |          |   [ ]    |   [ ]    |
+| Derenevick  | Diego       | Diego    |   [ ]    |   [0]    |
 | Rodrigo     | Pedro       |          |   [ ]    |   [ ]    |
 | Nil         | Fernando    |          |   [ ]    |   [ ]    |
 | Felipe      | Beltrame    |          |   [ ]    |   [ ]    |
