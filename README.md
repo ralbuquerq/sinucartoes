@@ -1,4 +1,4 @@
-# SinuCard&Support  
+# SinuCartoes&Support  
 O maior campeonato internacional de sinuca das equipes cartões e Sustentação 🤘 ⚡️ 🎱
 
 ######
@@ -37,34 +37,34 @@ if (numeroDeBolasNaMesa > 0) {
 
 ## Classificação Atual
 
-| PT | VT | Jogador
-| -: | -: | -------
-| 00 | 00 | Pedro
-| 00 | 00 | Maurício
-| 00 | 00 | Fernando
-| 00 | 00 | Albuquerque
-| 00 | 00 | Snow
-| 00 | 00 | Ricardo
-| 00 | 00 | Branco
-| 00 | 00 | Umbelino
-| 00 | 00 | Nil
-| 00 | 00 | Felipe
-| 00 | 00 | Beltrame
-| 00 | 00 | Rodrigo
-| 00 | 00 | Diego
-| 00 | 00 | Carlos
-| 00 | 00 | Derenevick
-| 00 | 00 | Letícia
-| 00 | 00 | Higor
-| 00 | 00 | Stella
-| 00 | 00 | Cunha (Bruno)
-| 00 | 00 | Hunas (Felipe)
-| 00 | 00 | Bosquetto (Marcio)
-| 00 | 00 | Bortoli (André)
-| 00 | 00 | Zanese (Paulo)
-| 00 | 00 | Zanellato
-| 00 | 00 | Bruno L.
-| 00 | 00 | Vidotti
+| PT | VT | GP | Jogador
+| -: | -: | -: | -------
+| 00 | 00 | 00 | Pedro
+| 00 | 00 | 00 | Maurício
+| 00 | 00 | 00 | Fernando
+| 00 | 00 | 00 | Albuquerque
+| 00 | 00 | 00 | Snow
+| 00 | 00 | 00 | Ricardo
+| 00 | 00 | 00 | Branco
+| 00 | 00 | 00 | Umbelino
+| 00 | 00 | 00 | Nil
+| 00 | 00 | 00 | Felipe
+| 00 | 00 | 00 | Beltrame
+| 00 | 00 | 00 | Rodrigo
+| 03 | 01 | 01 | Diego
+| 00 | 00 | 00 | Carlos
+| 00 | 00 | 00 | Derenevick
+| 00 | 00 | 00 | Letícia
+| 00 | 00 | 00 | Higor
+| 00 | 00 | 00 | Stella
+| 00 | 00 | 00 | Cunha (Bruno)
+| 00 | 00 | 00 | Hunas (Felipe)
+| 00 | 00 | 00 | Bosquetto (Marcio)
+| 00 | 00 | 00 | Bortoli (André)
+| 00 | 00 | 00 | Zanese (Paulo)
+| 00 | 00 | 00 | Zanellato
+| 00 | 00 | 00 | Bruno L.
+| 00 | 00 | 00 | Vidotti
 
 ### 1º FASE
 
@@ -181,7 +181,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Beltrame    | Ricardo     |          |   [ ]    |
 | Fernando    | Albuquerque |          |   [ ]    |
 | Pedro       | Umbelino    |          |   [ ]    |
-| Diego       | Branco      |          |   [ ]    |
+| Diego       | Branco      | Diego    |   [x]    |
 
 | RODADA 8    | ----------- | -------- | ---------|
 | ----------- | ----------- | -------- | :------: |
