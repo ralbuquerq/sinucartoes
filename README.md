@@ -41,7 +41,7 @@ if (numeroDeBolasNaMesa > 0) {
 | -: | -: | -: | -: | -------
 | 01 | 05 | 02 |  1 | Diego
 | 02 | 04 | 01 |  2 | Derenevick
-| 03 | 01 | 00 | -3 | Branco
+| 03 | 00 | 00 | -3 | Branco
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Maurício
 | 00 | 00 | 00 | 00 | Fernando
