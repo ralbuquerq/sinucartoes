@@ -53,7 +53,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | Rodrigo
 | 03 | 01 | 01 | Diego
 | 00 | 00 | 00 | Carlos
-| 00 | 00 | 00 | Derenevick
+| 03 | 01 | 02 | Derenevick
 | 00 | 00 | 00 | Letícia
 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | Stella
@@ -131,7 +131,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Fernando    | Felipe      |          |   [ ]    |
 | Pedro       | Nil         |          |   [ ]    |
 | Diego       | Rodrigo     |          |   [ ]    |
-| Branco      | Derenevick  |          |   [ ]    |
+| Branco      | Derenevick  |Derenevick|   [x]    |
 | Umbelino    | Leticia     |          |   [ ]    |
 | Albuquerque | Ricardo     |          |   [ ]    |
 
