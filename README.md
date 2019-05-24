@@ -51,9 +51,9 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | Beltrame
 | 00 | 00 | 00 | Rodrigo
-| 03 | 01 | 01 | Diego
+| 03 | 01 | 01 | **Diego**
 | 00 | 00 | 00 | Carlos
-| 03 | 01 | 02 | Derenevick
+| 03 | 01 | 02 | **Derenevick**
 | 00 | 00 | 00 | Letícia
 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | Stella
