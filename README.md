@@ -42,10 +42,11 @@ if (numeroDeBolasNaMesa > 0) {
 | 01 | 08 | 03 |  6 | Maurício
 | 02 | 05 | 02 |  1 | Diego
 | 03 | 04 | 01 |  2 | Derenevick
-| 04 | 04 | 01 |  0 | Albuquerque
-| 05 | 03 | 01 |  3 | Hunas (Felipe)
-| 06 | 00 | 00 | -3 | Branco
-| 07 | 00 | 00 | -6 | Bortoli (André)
+| 04 | 04 | 01 |  1 | Letícia
+| 05 | 04 | 01 |  0 | Albuquerque
+| 06 | 03 | 01 |  3 | Hunas (Felipe)
+| 07 | 01 | 01 | -3 | Branco
+| 08 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Fernando
 | 00 | 00 | 00 | 00 | Snow
@@ -56,7 +57,6 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Beltrame
 | 00 | 00 | 00 | 00 | Rodrigo
 | 00 | 00 | 00 | 00 | Carlos
-| 00 | 00 | 00 | 00 | Letícia
 | 00 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
@@ -297,7 +297,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | RODADA 15   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
-| Snow        | Leticia     |          |   [ ]    |   [ ]    |
+| Snow        | Leticia     | Leticia  |   [x]    |   [1]    |
 | Derenevick  | Ricardo     |          |   [ ]    |   [ ]    |
 | Rodrigo     | Albuquerque |          |   [ ]    |   [ ]    |
 | Nil         | Umbelino    |          |   [ ]    |   [ ]    |
@@ -330,7 +330,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Albuquerque |          |   [ ]    |   [ ]    |
 | Ricardo     | Umbelino    |          |   [ ]    |   [ ]    |
-| Leticia     | Branco      |          |   [ ]    |   [ ]    |
+| Leticia     | Branco      | Branco   |   [ ]    |   [0]    |
 | Derenevick  | Diego       | Diego    |   [ ]    |   [0]    |
 | Rodrigo     | Pedro       |          |   [ ]    |   [ ]    |
 | Nil         | Fernando    |          |   [ ]    |   [ ]    |
