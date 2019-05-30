@@ -40,13 +40,14 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 08 | 03 |  6 | Maurício
-| 02 | 05 | 02 |  1 | Diego
-| 03 | 04 | 01 |  2 | Derenevick
+| 02 | 07 | 02 |  3 | Derenevick
+| 03 | 05 | 02 |  1 | Diego
 | 04 | 04 | 01 |  1 | Letícia
 | 05 | 04 | 01 |  0 | Albuquerque
 | 06 | 03 | 01 |  3 | Hunas (Felipe)
-| 07 | 01 | 01 | -3 | Branco
-| 08 | 00 | 00 | -6 | Bortoli (André)
+| 07 | 00 | 00 | -1 | Vidotti
+| 08 | 01 | 01 | -3 | Branco
+| 09 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Fernando
 | 00 | 00 | 00 | 00 | Snow
@@ -64,7 +65,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Zanese (Paulo)
 | 00 | 00 | 00 | 00 | Zanellato
 | 00 | 00 | 00 | 00 | Bruno L.
-| 00 | 00 | 00 | 00 | Vidotti
+
 
 ### 1º FASE
 
@@ -382,7 +383,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Albuquerque | Beltrame    |          |   [ ]    |   [ ]    |
 | Ricardo     | Mauricio    |          |   [ ]    |   [ ]    |
 | Leticia     | Carlos      |          |   [ ]    |   [ ]    |
-| Derenevick  | Vidotti     |          |   [ ]    |   [ ]    |
+| Derenevick  | Vidotti     |Derenevick|   [x]    |   [1]    |
 | Rodrigo     | Bruno L.    |          |   [ ]    |   [ ]    |
 | Nil         | Zanellato   |          |   [ ]    |   [ ]    |
 | Felipe      | Zanese      |          |   [ ]    |   [ ]    |
