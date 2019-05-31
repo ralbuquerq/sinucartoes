@@ -46,9 +46,10 @@ if (numeroDeBolasNaMesa > 0) {
 | 05 | 04 | 01 |  0 | Albuquerque
 | 06 | 03 | 01 |  3 | Hunas (Felipe)
 | 07 | 03 | 01 |  2 | Fernando
-| 08 | 00 | 00 | -1 | Vidotti
-| 09 | 00 | 00 | -6 | Bortoli (André)
-| 10 | 01 | 01 | -7 | Branco
+| 08 | 02 | 01 |  0 | Carlos
+| 09 | 02 | 01 | -7 | Branco
+| 10 | 00 | 00 | -1 | Vidotti
+| 11 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
@@ -57,7 +58,6 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Beltrame
 | 00 | 00 | 00 | 00 | Rodrigo
-| 00 | 00 | 00 | 00 | Carlos
 | 00 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
@@ -412,7 +412,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Fernando    |          |   [ ]    |   [ ]    |
 | Pedro       | Beltrame    |          |   [ ]    |   [ ]    |
 | Diego       | Mauricio    |          |   [ ]    |   [ ]    |
-| Branco      | Carlos      |          |   [ ]    |   [ ]    |
+| Branco      | Carlos      | Branco   |   [ ]    |   [0]    |
 | Umbelino    | Vidotti     |          |   [ ]    |   [ ]    |
 | Albuquerque | Bruno L.    |          |   [ ]    |   [ ]    |
 | Ricardo     | Zanellato   |          |   [ ]    |   [ ]    |
