@@ -39,7 +39,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 11 | 03 |  8 | Maurício
+| 01 | 11 | 04 |  8 | Maurício
 | 02 | 07 | 02 |  3 | Derenevick
 | 03 | 05 | 02 |  1 | Diego
 | 04 | 04 | 01 |  1 | Letícia
