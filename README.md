@@ -44,12 +44,12 @@ if (numeroDeBolasNaMesa > 0) {
 | 03 | 05 | 02 |  1 | Diego
 | 04 | 04 | 01 |  1 | Letícia
 | 05 | 04 | 01 |  0 | Albuquerque
-| 06 | 03 | 01 |  3 | Hunas (Felipe)
-| 07 | 00 | 00 | -1 | Vidotti
-| 08 | 01 | 01 | -5 | Branco
+| 06 | 03 | 01 |  2 | Fernando
+| 07 | 03 | 01 |  3 | Hunas (Felipe)
+| 08 | 00 | 00 | -1 | Vidotti
 | 09 | 00 | 00 | -6 | Bortoli (André)
+| 10 | 01 | 01 | -7 | Branco
 | 00 | 00 | 00 | 00 | Pedro
-| 00 | 00 | 00 | 00 | Fernando
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
 | 00 | 00 | 00 | 00 | Umbelino
@@ -197,7 +197,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Carlos      | Ricardo     |          |   [ ]    |   [ ]    |
 | Mauricio    | Albuquerque | Mauricio |   [ ]    |   [0]    |
 | Beltrame    | Umbelino    |          |   [ ]    |   [ ]    |
-| Fernando    | Branco      |          |   [ ]    |   [ ]    |
+| Fernando    | Branco      | Fernando |   [x]    |   [2]    |
 | Pedro       | Diego       |          |   [ ]    |   [ ]    |
 
 | RODADA 9    | ----------- | -------- | ---------| ---------|
