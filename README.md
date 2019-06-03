@@ -55,7 +55,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
 | 00 | 00 | 00 | 00 | Umbelino
-| 00 | 00 | 00 | 00 | Nil
+| 00 | 00 | 00 | 00 | Daniel
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Rodrigo
 | 00 | 00 | 00 | 00 | Higor
@@ -85,7 +85,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Umbelino    | Stella      |          |   [ ]    |   [ ]    |
 | Albuquerque | Higor       |          |   [ ]    |   [ ]    |
 | Ricardo     | Felipe      |          |   [ ]    |   [ ]    |
-| Leticia     | Nil         |          |   [ ]    |   [ ]    |
+| Leticia     | Daniel      |          |   [ ]    |   [ ]    |
 | Derenevick  | Rodrigo     |          |   [ ]    |   [ ]    |
 
 | RODADA 2    | ----------- | -------- | ---------| ---------|
@@ -100,7 +100,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Diego       | Stella      |          |   [ ]    |   [ ]    |
 | Branco      | Higor       |          |   [ ]    |   [ ]    |
 | Umbelino    | Felipe      |          |   [ ]    |   [ ]    |
-| Albuquerque | Nil         |          |   [ ]    |   [ ]    |
+| Albuquerque | Daniel      |          |   [ ]    |   [ ]    |
 | Ricardo     | Rodrigo     |          |   [ ]    |   [ ]    |
 | Leticia     | Derenevick  |          |   [ ]    |   [ ]    |
 
@@ -115,7 +115,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Fernando    | Stella      |          |   [ ]    |   [ ]    |
 | Pedro       | Higor       |          |   [ ]    |   [ ]    |
 | Diego       | Felipe      |          |   [ ]    |   [ ]    |
-| Branco      | Nil         |          |   [ ]    |   [ ]    |
+| Branco      | Daniel      |          |   [ ]    |   [ ]    |
 | Umbelino    | Rodrigo     |          |   [ ]    |   [ ]    |
 | Albuquerque | Derenevick  |          |   [ ]    |   [ ]    |
 | Ricardo     | Leticia     |          |   [ ]    |   [ ]    |
@@ -130,7 +130,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Mauricio    | Stella      |          |   [ ]    |   [ ]    |
 | Beltrame    | Higor       |          |   [ ]    |   [ ]    |
 | Fernando    | Felipe      |          |   [ ]    |   [ ]    |
-| Pedro       | Nil         |          |   [ ]    |   [ ]    |
+| Pedro       | Daniel      |          |   [ ]    |   [ ]    |
 | Diego       | Rodrigo     |          |   [ ]    |   [ ]    |
 | Branco      | Derenevick  |Derenevick|   [x]    |   [2]    |
 | Umbelino    | Leticia     |          |   [ ]    |   [ ]    |
@@ -145,7 +145,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Vidotti     | Stella      |          |   [ ]    |   [ ]    |
 | Carlos      | Higor       |          |   [ ]    |   [ ]    |
 | Mauricio    | Felipe      |          |   [ ]    |   [ ]    |
-| Beltrame    | Nil         |          |   [ ]    |   [ ]    |
+| Beltrame    | Daniel      |          |   [ ]    |   [ ]    |
 | Fernando    | Rodrigo     |          |   [ ]    |   [ ]    |
 | Pedro       | Derenevick  |          |   [ ]    |   [ ]    |
 | Diego       | Leticia     |          |   [ ]    |   [ ]    |
@@ -160,7 +160,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Zanellato   | Stella      |          |   [ ]    |   [ ]    |
 | Bruno L.    | Higor       |          |   [ ]    |   [ ]    |
 | Vidotti     | Felipe      |          |   [ ]    |   [ ]    |
-| Carlos      | Nil         |          |   [ ]    |   [ ]    |
+| Carlos      | Daniel      |          |   [ ]    |   [ ]    |
 | Mauricio    | Rodrigo     |          |   [ ]    |   [ ]    |
 | Beltrame    | Derenevick  |          |   [ ]    |   [ ]    |
 | Fernando    | Leticia     |          |   [ ]    |   [ ]    |
@@ -175,7 +175,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bortoli     | Stella      |          |   [ ]    |   [ ]    |
 | Zanese      | Higor       |          |   [ ]    |   [ ]    |
 | Zanellato   | Felipe      |          |   [ ]    |   [ ]    |
-| Bruno L.    | Nil         |          |   [ ]    |   [ ]    |
+| Bruno L.    | Daniel      |          |   [ ]    |   [ ]    |
 | Vidotti     | Rodrigo     |          |   [ ]    |   [ ]    |
 | Carlos      | Derenevick  |          |   [ ]    |   [ ]    |
 | Mauricio    | Leticia     |          |   [ ]    |   [ ]    |
@@ -190,7 +190,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Hunas       | Stella      |          |   [ ]    |   [ ]    |
 | Bosquetto   | Higor       |          |   [ ]    |   [ ]    |
 | Bortoli     | Felipe      |          |   [ ]    |   [ ]    |
-| Zanese      | Nil         |          |   [ ]    |   [ ]    |
+| Zanese      | Daniel      |          |   [ ]    |   [ ]    |
 | Zanellato   | Rodrigo     |          |   [ ]    |   [ ]    |
 | Bruno L.    | Derenevick  |          |   [ ]    |   [ ]    |
 | Vidotti     | Leticia     |          |   [ ]    |   [ ]    |
@@ -205,7 +205,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Stella      |          |   [ ]    |   [ ]    |
 | Cunha       | Higor       |          |   [ ]    |   [ ]    |
 | Hunas       | Felipe      |          |   [ ]    |   [ ]    |
-| Bosquetto   | Nil         |          |   [ ]    |   [ ]    |
+| Bosquetto   | Daniel      |          |   [ ]    |   [ ]    |
 | Bortoli     | Rodrigo     |          |   [ ]    |   [ ]    |
 | Zanese      | Derenevick  |          |   [ ]    |   [ ]    |
 | Zanellato   | Leticia     |          |   [ ]    |   [ ]    |
@@ -220,7 +220,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Higor       |          |   [ ]    |   [ ]    |
 | Stella      | Felipe      |          |   [ ]    |   [ ]    |
-| Cunha       | Nil         |          |   [ ]    |   [ ]    |
+| Cunha       | Daniel      |          |   [ ]    |   [ ]    |
 | Hunas       | Rodrigo     |          |   [ ]    |   [ ]    |
 | Bosquetto   | Derenevick  |          |   [ ]    |   [ ]    |
 | Bortoli     | Leticia     |          |   [ ]    |   [ ]    |
@@ -235,7 +235,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 11   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Felipe      |          |   [ ]    |   [ ]    |
-| Higor       | Nil         |          |   [ ]    |   [ ]    |
+| Higor       | Daniel      |          |   [ ]    |   [ ]    |
 | Stella      | Rodrigo     |          |   [ ]    |   [ ]    |
 | Cunha       | Derenevick  |          |   [ ]    |   [ ]    |
 | Hunas       | Leticia     |          |   [ ]    |   [ ]    |
@@ -250,7 +250,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | RODADA 12   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
-| Snow        | Nil         |          |   [ ]    |   [ ]    |
+| Snow        | Daniel      |          |   [ ]    |   [ ]    |
 | Felipe      | Rodrigo     |          |   [ ]    |   [ ]    |
 | Higor       | Derenevick  |          |   [ ]    |   [ ]    |
 | Stella      | Leticia     |          |   [ ]    |   [ ]    |
@@ -267,7 +267,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 13   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Rodrigo     |          |   [ ]    |   [ ]    |
-| Nil         | Derenevick  |          |   [ ]    |   [ ]    |
+| Daniel      | Derenevick  |          |   [ ]    |   [ ]    |
 | Felipe      | Leticia     |          |   [ ]    |   [ ]    |
 | Higor       | Ricardo     |          |   [ ]    |   [ ]    |
 | Stella      | Albuquerque |          |   [ ]    |   [ ]    |
@@ -284,7 +284,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Derenevick  |          |   [ ]    |   [ ]    |
 | Rodrigo     | Leticia     |          |   [ ]    |   [ ]    |
-| Nil         | Ricardo     |          |   [ ]    |   [ ]    |
+| Daniel      | Ricardo     |          |   [ ]    |   [ ]    |
 | Felipe      | Albuquerque |          |   [ ]    |   [ ]    |
 | Higor       | Umbelino    |          |   [ ]    |   [ ]    |
 | Stella      | Branco      |          |   [ ]    |   [ ]    |
@@ -301,7 +301,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Leticia     | Leticia  |   [x]    |   [1]    |
 | Derenevick  | Ricardo     |          |   [ ]    |   [ ]    |
 | Rodrigo     | Albuquerque |          |   [ ]    |   [ ]    |
-| Nil         | Umbelino    |          |   [ ]    |   [ ]    |
+| Daniel      | Umbelino    |          |   [ ]    |   [ ]    |
 | Stella      | Pedro       |          |   [ ]    |   [ ]    |
 | Branco      | Diego       |          |   [ ]    |   [ ]    |
 | Cunha       | Fernando    |          |   [ ]    |   [ ]    |
@@ -317,7 +317,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Albuquerque |          |   [ ]    |   [ ]    |
 | Derenevick  | Umbelino    |          |   [ ]    |   [ ]    |
 | Rodrigo     | Branco      |          |   [ ]    |   [ ]    |
-| Nil         | Diego       |          |   [ ]    |   [ ]    |
+| Daniel      | Diego       |          |   [ ]    |   [ ]    |
 | Felipe      | Pedro       |          |   [ ]    |   [ ]    |
 | Higor       | Fernando    |          |   [ ]    |   [ ]    |
 | Stella      | Beltrame    |          |   [ ]    |   [ ]    |
@@ -334,7 +334,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Branco      | Branco   |   [ ]    |   [0]    |
 | Derenevick  | Diego       | Diego    |   [ ]    |   [0]    |
 | Rodrigo     | Pedro       |          |   [ ]    |   [ ]    |
-| Nil         | Fernando    |          |   [ ]    |   [ ]    |
+| Daniel      | Fernando    |          |   [ ]    |   [ ]    |
 | Felipe      | Beltrame    |          |   [ ]    |   [ ]    |
 | Higor       | Mauricio    |          |   [ ]    |   [ ]    |
 | Stella      | Carlos      |          |   [ ]    |   [ ]    |
@@ -351,7 +351,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Pedro       |          |   [ ]    |   [ ]    |
 | Derenevick  | Fernando    |          |   [ ]    |   [ ]    |
 | Rodrigo     | Beltrame    |          |   [ ]    |   [ ]    |
-| Nil         | Mauricio    |          |   [ ]    |   [ ]    |
+| Daniel      | Mauricio    |          |   [ ]    |   [ ]    |
 | Felipe      | Carlos      |          |   [ ]    |   [ ]    |
 | Higor       | Vidotti     |          |   [ ]    |   [ ]    |
 | Stella      | Bruno L.    |          |   [ ]    |   [ ]    |
@@ -368,7 +368,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Beltrame    |          |   [ ]    |   [ ]    |
 | Derenevick  | Mauricio    |          |   [ ]    |   [ ]    |
 | Rodrigo     | Carlos      |          |   [ ]    |   [ ]    |
-| Nil         | Vidotti     |          |   [ ]    |   [ ]    |
+| Daniel      | Vidotti     |          |   [ ]    |   [ ]    |
 | Felipe      | Bruno L.    |          |   [ ]    |   [ ]    |
 | Higor       | Zanellato   |          |   [ ]    |   [ ]    |
 | Stella      | Zanese      |          |   [ ]    |   [ ]    |
@@ -385,7 +385,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Carlos      |          |   [ ]    |   [ ]    |
 | Derenevick  | Vidotti     |Derenevick|   [x]    |   [1]    |
 | Rodrigo     | Bruno L.    |          |   [ ]    |   [ ]    |
-| Nil         | Zanellato   |          |   [ ]    |   [ ]    |
+| Daniel      | Zanellato   |          |   [ ]    |   [ ]    |
 | Felipe      | Zanese      |          |   [ ]    |   [ ]    |
 | Higor       | Bortoli     |          |   [ ]    |   [ ]    |
 | Stella      | Bosquetto   |          |   [ ]    |   [ ]    |
@@ -402,7 +402,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Bruno L.    |          |   [ ]    |   [ ]    |
 | Derenevick  | Zanellato   |          |   [ ]    |   [ ]    |
 | Rodrigo     | Zanese      |          |   [ ]    |   [ ]    |
-| Nil         | Bortoli     |          |   [ ]    |   [ ]    |
+| Daniel      | Bortoli     |          |   [ ]    |   [ ]    |
 | Felipe      | Bosquetto   |          |   [ ]    |   [ ]    |
 | Higor       | Hunas       |          |   [ ]    |   [ ]    |
 | Stella      | Cunha       |          |   [ ]    |   [ ]    |
@@ -419,7 +419,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Zanese      |          |   [ ]    |   [ ]    |
 | Derenevick  | Bortoli     |          |   [ ]    |   [ ]    |
 | Rodrigo     | Bosquetto   |          |   [ ]    |   [ ]    |
-| Nil         | Hunas       |          |   [ ]    |   [ ]    |
+| Daniel      | Hunas       |          |   [ ]    |   [ ]    |
 | Felipe      | Cunha       |          |   [ ]    |   [ ]    |
 | Higor       | Stella      |          |   [ ]    |   [ ]    |
 
@@ -436,7 +436,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Bosquetto   |          |   [ ]    |   [ ]    |
 | Derenevick  | Hunas       |          |   [ ]    |   [ ]    |
 | Rodrigo     | Cunha       |          |   [ ]    |   [ ]    |
-| Nil         | Stella      |          |   [ ]    |   [ ]    |
+| Daniel      | Stella      |          |   [ ]    |   [ ]    |
 | Felipe      | Higor       |          |   [ ]    |   [ ]    |
 
 | RODADA 24   | ----------- | -------- | ---------| ---------|
@@ -453,7 +453,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Cunha       |          |   [ ]    |   [ ]    |
 | Derenevick  | Stella      |          |   [ ]    |   [ ]    |
 | Rodrigo     | Higor       |          |   [ ]    |   [ ]    |
-| Nil         | Felipe      |          |   [ ]    |   [ ]    |
+| Daniel      | Felipe      |          |   [ ]    |   [ ]    |
 
 | RODADA 25   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
@@ -469,7 +469,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Ricardo     | Stella      |          |   [ ]    |   [ ]    |
 | Leticia     | Higor       |          |   [ ]    |   [ ]    |
 | Derenevick  | Felipe      |          |   [ ]    |   [ ]    |
-| Rodrigo     | Nil         |          |   [ ]    |   [ ]    |
+| Rodrigo     | Daniel      |          |   [ ]    |   [ ]    |
 
 
 ####################### - Fim da 1 Fase - ########################################
