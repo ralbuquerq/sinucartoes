@@ -40,12 +40,12 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 11 | 04 |  8 | Maurício
-| 02 | 07 | 02 |  3 | Derenevick
-| 03 | 07 | 02 |  2 | Albuquerque
+| 02 | 10 | 03 |  4 | Albuquerque
+| 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  1 | Diego
 | 05 | 04 | 01 |  1 | Letícia
 | 06 | 03 | 01 |  3 | Hunas (Felipe)
-| 07 | 03 | 01 |  2 | Fernando
+| 07 | 03 | 01 |  0 | Fernando
 | 08 | 02 | 01 |  0 | Carlos
 | 09 | 02 | 01 | -7 | Branco
 | 10 | 00 | 00 | -1 | Vidotti
@@ -180,7 +180,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Carlos      | Derenevick  |          |   [ ]    |   [ ]    |
 | Mauricio    | Leticia     |          |   [ ]    |   [ ]    |
 | Beltrame    | Ricardo     |          |   [ ]    |   [ ]    |
-| Fernando    | Albuquerque |          |   [ ]    |   [ ]    |
+| Fernando    | Albuquerque |Albuquerqu|   [x]    |   [2]    |
 | Pedro       | Umbelino    |          |   [ ]    |   [ ]    |
 | Diego       | Branco      | Diego    |   [x]    |   [1]    |
 
