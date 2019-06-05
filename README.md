@@ -39,8 +39,8 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
+| 01 | 12 | 04 |  4 | Albuquerque
 | 01 | 11 | 04 |  8 | Maurício
-| 02 | 10 | 03 |  4 | Albuquerque
 | 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  1 | Diego
 | 05 | 04 | 01 |  1 | Letícia
@@ -48,9 +48,10 @@ if (numeroDeBolasNaMesa > 0) {
 | 07 | 03 | 01 |  0 | Fernando
 | 08 | 02 | 01 |  0 | Carlos
 | 09 | 02 | 01 | -7 | Branco
-| 10 | 00 | 00 | -1 | Vidotti
-| 11 | 00 | 00 | -2 | Beltrame
-| 12 | 00 | 00 | -6 | Bortoli (André)
+| 10 | 01 | 00 |  0 | Higor
+| 11 | 00 | 00 | -1 | Vidotti
+| 12 | 00 | 00 | -2 | Beltrame
+| 13 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
@@ -58,7 +59,6 @@ if (numeroDeBolasNaMesa > 0) {
 | 00 | 00 | 00 | 00 | Daniel
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Rodrigo
-| 00 | 00 | 00 | 00 | Higor
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
 | 00 | 00 | 00 | 00 | Bosquetto (Marcio)
@@ -83,7 +83,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Diego       | Hunas       |          |   [ ]    |   [ ]    |
 | Branco      | Cunha       |          |   [ ]    |   [ ]    |
 | Umbelino    | Stella      |          |   [ ]    |   [ ]    |
-| Albuquerque | Higor       |          |   [ ]    |   [ ]    |
+| Albuquerque | Higor       |Albuquerqu|   [ ]    |   [0]    |
 | Ricardo     | Felipe      |          |   [ ]    |   [ ]    |
 | Leticia     | Daniel      |          |   [ ]    |   [ ]    |
 | Derenevick  | Rodrigo     |          |   [ ]    |   [ ]    |
