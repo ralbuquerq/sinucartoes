@@ -42,11 +42,11 @@ if (numeroDeBolasNaMesa > 0) {
 | 01 | 12 | 04 |  4 | Albuquerque
 | 01 | 11 | 04 |  8 | Maurício
 | 03 | 07 | 02 |  3 | Derenevick
-| 04 | 05 | 02 |  1 | Diego
-| 05 | 04 | 01 |  1 | Letícia
-| 06 | 03 | 01 |  3 | Hunas (Felipe)
-| 07 | 03 | 01 |  0 | Fernando
-| 08 | 02 | 01 |  0 | Carlos
+| 04 | 05 | 02 |  3 | Carlos
+| 05 | 05 | 02 |  1 | Diego
+| 06 | 04 | 01 |  1 | Letícia
+| 07 | 03 | 01 |  3 | Hunas (Felipe)
+| 08 | 03 | 01 |  0 | Fernando
 | 09 | 02 | 01 | -7 | Branco
 | 10 | 01 | 00 |  0 | Higor
 | 11 | 00 | 00 | -1 | Vidotti
@@ -245,7 +245,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Zanellato   | Branco      |          |   [ ]    |   [ ]    |
 | Bruno L.    | Diego       |          |   [ ]    |   [ ]    |
 | Vidotti     | Pedro       |          |   [ ]    |   [ ]    |
-| Carlos      | Fernando    |          |   [ ]    |   [ ]    |
+| Carlos      | Fernando    | Carlos   |   [x]    |   [3]    |
 | Mauricio    | Beltrame    |          |   [ ]    |   [ ]    |
 
 | RODADA 12   | ----------- | -------- | ---------| ---------|
