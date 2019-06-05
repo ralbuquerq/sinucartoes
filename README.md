@@ -39,8 +39,8 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 12 | 04 |  4 | Albuquerque
-| 01 | 11 | 04 |  8 | Maurício
+| 01 | 14 | 05 | 12 | Maurício
+| 02 | 12 | 04 |  4 | Albuquerque
 | 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  3 | Carlos
 | 05 | 05 | 02 |  1 | Diego
@@ -262,7 +262,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Zanellato   | Pedro       |          |   [ ]    |   [ ]    |
 | Bruno L.    | Fernando    |          |   [ ]    |   [ ]    |
 | Vidotti     | Beltrame    |          |   [ ]    |   [ ]    |
-| Carlos      | Mauricio    |          |   [ ]    |   [ ]    |
+| Carlos      | Mauricio    | Mauricio |   [x]    |   [4]    |
 
 | RODADA 13   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
