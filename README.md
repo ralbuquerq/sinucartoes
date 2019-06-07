@@ -39,14 +39,14 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 14 | 05 | 12 | Maurício
+| 01 | 15 | 05 | 12 | Maurício
 | 02 | 12 | 04 |  4 | Albuquerque
 | 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  3 | Carlos
 | 05 | 05 | 02 |  1 | Diego
-| 06 | 04 | 01 |  1 | Letícia
-| 07 | 03 | 01 |  3 | Hunas (Felipe)
-| 08 | 03 | 01 |  0 | Fernando
+| 06 | 05 | 02 |  0 | Fernando
+| 07 | 04 | 01 |  1 | Letícia
+| 08 | 03 | 01 |  3 | Hunas (Felipe)
 | 09 | 02 | 01 | -7 | Branco
 | 10 | 01 | 00 |  0 | Higor
 | 11 | 00 | 00 | -1 | Vidotti
@@ -426,7 +426,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 23   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Beltrame    |          |   [ ]    |   [ ]    |
-| Fernando    | Mauricio    |          |   [ ]    |   [ ]    |
+| Fernando    | Mauricio    | Fernando |   [ ]    |   [0]    |
 | Pedro       | Carlos      |          |   [ ]    |   [ ]    |
 | Diego       | Vidotti     |          |   [ ]    |   [ ]    |
 | Branco      | Bruno L.    |          |   [ ]    |   [ ]    |
