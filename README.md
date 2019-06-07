@@ -39,7 +39,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 16 | 05 | 12 | Maurício
+| 01 | 19 | 06 | 13 | Maurício
 | 02 | 14 | 05 |  4 | Albuquerque
 | 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  3 | Carlos
@@ -53,7 +53,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 12 | 00 | 00 | -1 | Vidotti
 | 13 | 00 | 00 | -2 | Beltrame
 | 14 | 00 | 00 | -6 | Bortoli (André)
-| 00 | 00 | 00 | 00 | Pedro
+| 15 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
 | 00 | 00 | 00 | 00 | Daniel
@@ -229,7 +229,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bruno L.    | Umbelino    |          |   [ ]    |   [ ]    |
 | Vidotti     | Branco      |          |   [ ]    |   [ ]    |
 | Carlos      | Diego       |          |   [ ]    |   [ ]    |
-| Mauricio    | Pedro       |          |   [ ]    |   [ ]    |
+| Mauricio    | Pedro       | Mauricio |   [x]    |   [1]    |
 | Beltrame    | Fernando    |          |   [ ]    |   [ ]    |
 
 | RODADA 11   | ----------- | -------- | ---------| ---------|
