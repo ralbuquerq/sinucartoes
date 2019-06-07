@@ -39,7 +39,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 15 | 05 | 12 | Maurício
+| 01 | 16 | 05 | 12 | Maurício
 | 02 | 14 | 05 |  4 | Albuquerque
 | 03 | 07 | 02 |  3 | Derenevick
 | 04 | 05 | 02 |  3 | Carlos
@@ -48,14 +48,14 @@ if (numeroDeBolasNaMesa > 0) {
 | 07 | 04 | 01 |  1 | Letícia
 | 08 | 03 | 01 |  3 | Hunas (Felipe)
 | 09 | 03 | 01 | -7 | Branco
-| 10 | 01 | 00 |  0 | Higor
-| 11 | 00 | 00 | -1 | Vidotti
-| 12 | 00 | 00 | -2 | Beltrame
-| 13 | 00 | 00 | -6 | Bortoli (André)
+| 10 | 02 | 01 |  0 | Umbelino
+| 11 | 01 | 00 |  0 | Higor
+| 12 | 00 | 00 | -1 | Vidotti
+| 13 | 00 | 00 | -2 | Beltrame
+| 14 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Pedro
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Ricardo
-| 00 | 00 | 00 | 00 | Umbelino
 | 00 | 00 | 00 | 00 | Daniel
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Rodrigo
@@ -396,7 +396,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Pedro       |          |   [ ]    |   [ ]    |
 | Diego       | Fernando    |          |   [ ]    |   [ ]    |
 | Branco      | Beltrame    |          |   [ ]    |   [ ]    |
-| Umbelino    | Mauricio    |          |   [ ]    |   [ ]    |
+| Umbelino    | Mauricio    | Umbelino |   [ ]    |   [0]    |
 | Albuquerque | Carlos      |          |   [ ]    |   [ ]    |
 | Ricardo     | Vidotti     |          |   [ ]    |   [ ]    |
 | Leticia     | Bruno L.    |          |   [ ]    |   [ ]    |
