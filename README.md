@@ -39,8 +39,8 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 19 | 06 | 13 | Maurício
-| 02 | 16 | 06 |  4 | Albuquerque
+| 01 | 19 | 07 |  5 | Albuquerque
+| 02 | 19 | 06 | 13 | Maurício
 | 03 | 10 | 03 |  5 | Derenevick
 | 04 | 09 | 03 |  2 | Fernando
 | 05 | 05 | 02 |  3 | Carlos
@@ -52,9 +52,9 @@ if (numeroDeBolasNaMesa > 0) {
 | 11 | 01 | 00 |  0 | Higor
 | 12 | 01 | 00 |  0 | Ricardo
 | 13 | 00 | 00 | -1 | Vidotti
-| 14 | 00 | 00 | -2 | Beltrame
-| 15 | 00 | 00 | -6 | Bortoli (André)
-| 16 | 00 | 00 | 00 | Pedro
+| 14 | 00 | 00 | -1 | Pedro
+| 15 | 00 | 00 | -2 | Beltrame
+| 16 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Daniel
 | 00 | 00 | 00 | 00 | Felipe
@@ -363,7 +363,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Branco      |          |   [ ]    |   [ ]    |
 | Umbelino    | Diego       |          |   [ ]    |   [ ]    |
-| Albuquerque | Pedro       |          |   [ ]    |   [ ]    |
+| Albuquerque | Pedro       |Albuquerqu|   [x]    |   [1]    |
 | Ricardo     | Fernando    |          |   [ ]    |   [ ]    |
 | Leticia     | Beltrame    |          |   [ ]    |   [ ]    |
 | Derenevick  | Mauricio    |          |   [ ]    |   [ ]    |
