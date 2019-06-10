@@ -41,8 +41,8 @@ if (numeroDeBolasNaMesa > 0) {
 | -: | -: | -: | -: | -------
 | 01 | 19 | 06 | 13 | Maurício
 | 02 | 14 | 05 |  4 | Albuquerque
-| 03 | 09 | 03 |  2 | Fernando
-| 04 | 07 | 02 |  3 | Derenevick
+| 03 | 10 | 03 |  5 | Derenevick
+| 04 | 09 | 03 |  2 | Fernando
 | 05 | 05 | 02 |  3 | Carlos
 | 06 | 05 | 02 |  1 | Diego
 | 07 | 04 | 01 |  1 | Letícia
@@ -177,7 +177,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Zanellato   | Felipe      |          |   [ ]    |   [ ]    |
 | Bruno L.    | Daniel      |          |   [ ]    |   [ ]    |
 | Vidotti     | Rodrigo     |          |   [ ]    |   [ ]    |
-| Carlos      | Derenevick  |          |   [ ]    |   [ ]    |
+| Carlos      | Derenevick  |Derenevick|   [x]    |   [2]    |
 | Mauricio    | Leticia     |          |   [ ]    |   [ ]    |
 | Beltrame    | Ricardo     |          |   [ ]    |   [ ]    |
 | Fernando    | Albuquerque |Albuquerqu|   [x]    |   [2]    |
