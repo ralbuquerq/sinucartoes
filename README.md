@@ -41,8 +41,8 @@ if (numeroDeBolasNaMesa > 0) {
 | -: | -: | -: | -: | -------
 | 01 | 19 | 07 |  5 | Albuquerque
 | 02 | 19 | 06 | 13 | Maurício
-| 03 | 10 | 03 |  5 | Derenevick
-| 04 | 09 | 03 |  2 | Fernando
+| 03 | 11 | 04 |  2 | Fernando
+| 04 | 10 | 03 |  5 | Derenevick
 | 05 | 05 | 02 |  3 | Carlos
 | 06 | 05 | 02 |  1 | Diego
 | 07 | 04 | 01 |  1 | Letícia
@@ -51,8 +51,8 @@ if (numeroDeBolasNaMesa > 0) {
 | 10 | 02 | 01 |  0 | Umbelino
 | 11 | 01 | 00 |  0 | Higor
 | 12 | 01 | 00 |  0 | Ricardo
-| 13 | 00 | 00 | -1 | Vidotti
-| 14 | 00 | 00 | -1 | Pedro
+| 13 | 01 | 00 | -1 | Pedro
+| 14 | 00 | 00 | -1 | Vidotti
 | 15 | 00 | 00 | -2 | Beltrame
 | 16 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Snow
@@ -214,7 +214,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Carlos      | Umbelino    |          |   [ ]    |   [ ]    |
 | Mauricio    | Branco      | Mauricio |   [x]    |   [2]    |
 | Beltrame    | Diego       |          |   [ ]    |   [ ]    |
-| Fernando    | Pedro       |          |   [ ]    |   [ ]    |
+| Fernando    | Pedro       | Fernando |   [ ]    |   [0]    |
 
 | RODADA 10   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
