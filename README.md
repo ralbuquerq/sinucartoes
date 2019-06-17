@@ -49,7 +49,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 08 | 04 | 01 |  0 | Pedro
 | 09 | 03 | 01 |  3 | Hunas (Felipe)
 | 10 | 03 | 01 | -7 | Branco
-| 11 | 02 | 01 |  0 | Umbelino
+| 11 | 02 | 01 | -1 | Umbelino
 | 12 | 01 | 00 |  0 | Higor
 | 13 | 01 | 00 |  0 | Ricardo
 | 14 | 00 | 00 | -1 | Vidotti
