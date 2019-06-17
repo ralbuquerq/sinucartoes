@@ -43,17 +43,17 @@ if (numeroDeBolasNaMesa > 0) {
 | 02 | 19 | 06 | 13 | Maurício
 | 03 | 11 | 04 |  2 | Fernando
 | 04 | 10 | 03 |  5 | Derenevick
-| 05 | 05 | 02 |  3 | Carlos
-| 06 | 05 | 02 |  1 | Diego
+| 05 | 05 | 02 |  1 | Diego
+| 06 | 05 | 02 |  0 | Carlos
 | 07 | 04 | 01 |  1 | Letícia
 | 08 | 04 | 01 |  0 | Pedro
 | 09 | 03 | 01 |  3 | Hunas (Felipe)
-| 10 | 03 | 01 | -7 | Branco
-| 11 | 02 | 01 | -1 | Umbelino
-| 12 | 01 | 00 |  0 | Higor
-| 13 | 01 | 00 |  0 | Ricardo
-| 14 | 00 | 00 | -1 | Vidotti
-| 15 | 00 | 00 | -2 | Beltrame
+| 10 | 03 | 01 |  1 | Beltrame
+| 11 | 03 | 01 | -7 | Branco
+| 12 | 02 | 01 | -1 | Umbelino
+| 13 | 01 | 00 |  0 | Higor
+| 14 | 01 | 00 |  0 | Ricardo
+| 15 | 00 | 00 | -1 | Vidotti
 | 16 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Daniel
@@ -442,7 +442,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 24   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Mauricio    |          |   [ ]    |   [ ]    |
-| Beltrame    | Carlos      |          |   [ ]    |   [ ]    |
+| Beltrame    | Carlos      | Beltrame |   [x]    |   [3]    |
 | Fernando    | Vidotti     |          |   [ ]    |   [ ]    |
 | Pedro       | Bruno L.    |          |   [ ]    |   [ ]    |
 | Diego       | Zanellato   |          |   [ ]    |   [ ]    |
