@@ -40,7 +40,7 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 22 | 07 | 16 | Maurício
-| 02 | 19 | 07 |  5 | Albuquerque
+| 02 | 20 | 07 |  5 | Albuquerque
 | 03 | 11 | 04 |  2 | Fernando
 | 04 | 10 | 03 |  5 | Derenevick
 | 05 | 06 | 02 |  0 | Pedro
@@ -50,13 +50,13 @@ if (numeroDeBolasNaMesa > 0) {
 | 09 | 04 | 01 | -2 | Beltrame
 | 10 | 03 | 01 |  3 | Hunas (Felipe)
 | 11 | 03 | 01 | -7 | Branco
-| 12 | 02 | 01 | -1 | Umbelino
-| 13 | 01 | 00 |  0 | Higor
-| 14 | 01 | 00 |  0 | Ricardo
-| 15 | 00 | 00 | -1 | Vidotti
-| 16 | 00 | 00 | -6 | Bortoli (André)
-| 00 | 00 | 00 | 00 | Snow
-| 00 | 00 | 00 | 00 | Daniel
+| 12 | 02 | 01 |  0 | Daniel
+| 13 | 02 | 01 | -1 | Umbelino
+| 14 | 01 | 00 |  0 | Higor
+| 15 | 01 | 00 |  0 | Ricardo
+| 16 | 00 | 00 | -1 | Vidotti
+| 17 | 00 | 00 | -6 | Bortoli (André)
+| 18 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Rodrigo
 | 00 | 00 | 00 | 00 | Stella
@@ -100,7 +100,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Diego       | Stella      |          |   [ ]    |   [ ]    |
 | Branco      | Higor       |          |   [ ]    |   [ ]    |
 | Umbelino    | Felipe      |          |   [ ]    |   [ ]    |
-| Albuquerque | Daniel      |          |   [ ]    |   [ ]    |
+| Albuquerque | Daniel      | Daniel   |   [ ]    |   [0]    |
 | Ricardo     | Rodrigo     |          |   [ ]    |   [ ]    |
 | Leticia     | Derenevick  |          |   [ ]    |   [ ]    |
 
