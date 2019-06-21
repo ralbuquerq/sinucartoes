@@ -39,18 +39,18 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 22 | 07 | 16 | Maurício
+| 01 | 22 | 07 | 14 | Maurício
 | 02 | 20 | 07 |  5 | Albuquerque
 | 03 | 11 | 04 |  2 | Fernando
 | 04 | 10 | 03 |  5 | Derenevick
 | 05 | 06 | 02 |  0 | Pedro
-| 06 | 05 | 02 |  1 | Diego
-| 07 | 05 | 02 |  0 | Carlos
-| 08 | 04 | 01 |  1 | Letícia
-| 09 | 04 | 01 | -2 | Beltrame
-| 10 | 03 | 01 |  3 | Hunas (Felipe)
-| 11 | 03 | 01 | -7 | Branco
-| 12 | 02 | 01 |  0 | Daniel
+| 06 | 05 | 02 |  2 | Daniel
+| 07 | 05 | 02 |  1 | Diego
+| 08 | 05 | 02 |  0 | Carlos
+| 09 | 04 | 01 |  1 | Letícia
+| 10 | 04 | 01 | -2 | Beltrame
+| 11 | 03 | 01 |  3 | Hunas (Felipe)
+| 12 | 03 | 01 | -7 | Branco
 | 13 | 02 | 01 | -1 | Umbelino
 | 14 | 01 | 00 |  0 | Higor
 | 15 | 01 | 00 |  0 | Ricardo
@@ -351,7 +351,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Pedro       |          |   [ ]    |   [ ]    |
 | Derenevick  | Fernando    |          |   [ ]    |   [ ]    |
 | Rodrigo     | Beltrame    |          |   [ ]    |   [ ]    |
-| Daniel      | Mauricio    |          |   [ ]    |   [ ]    |
+| Daniel      | Mauricio    | Daniel   |   [x]    |   [2]    |
 | Felipe      | Carlos      |          |   [ ]    |   [ ]    |
 | Higor       | Vidotti     |          |   [ ]    |   [ ]    |
 | Stella      | Bruno L.    |          |   [ ]    |   [ ]    |
