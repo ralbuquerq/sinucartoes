@@ -42,7 +42,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 01 | 22 | 07 | 14 | Maurício
 | 02 | 20 | 07 |  5 | Albuquerque
 | 03 | 11 | 04 |  2 | Fernando
-| 04 | 10 | 03 |  5 | Derenevick
+| 04 | 10 | 03 |  4 | Derenevick
 | 05 | 06 | 02 |  0 | Pedro
 | 06 | 05 | 02 |  2 | Daniel
 | 07 | 05 | 02 |  1 | Diego
@@ -50,20 +50,20 @@ if (numeroDeBolasNaMesa > 0) {
 | 09 | 04 | 01 |  1 | Letícia
 | 10 | 04 | 01 | -2 | Beltrame
 | 11 | 03 | 01 |  3 | Hunas (Felipe)
-| 12 | 03 | 01 | -7 | Branco
-| 13 | 02 | 01 | -1 | Umbelino
-| 14 | 01 | 00 |  0 | Higor
-| 15 | 01 | 00 |  0 | Ricardo
-| 16 | 00 | 00 | -1 | Vidotti
-| 17 | 00 | 00 | -6 | Bortoli (André)
-| 18 | 00 | 00 | 00 | Snow
+| 12 | 03 | 01 |  1 | Zanellato
+| 13 | 03 | 01 | -7 | Branco
+| 14 | 02 | 01 | -1 | Umbelino
+| 15 | 01 | 00 |  0 | Higor
+| 16 | 01 | 00 |  0 | Ricardo
+| 17 | 00 | 00 | -1 | Vidotti
+| 18 | 00 | 00 | -6 | Bortoli (André)
+| 19 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Rodrigo
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
 | 00 | 00 | 00 | 00 | Bosquetto (Marcio)
 | 00 | 00 | 00 | 00 | Zanese (Paulo)
-| 00 | 00 | 00 | 00 | Zanellato
 | 00 | 00 | 00 | 00 | Bruno L.
 
 
@@ -400,7 +400,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Albuquerque | Carlos      |          |   [ ]    |   [ ]    |
 | Ricardo     | Vidotti     |          |   [ ]    |   [ ]    |
 | Leticia     | Bruno L.    |          |   [ ]    |   [ ]    |
-| Derenevick  | Zanellato   |          |   [ ]    |   [ ]    |
+| Derenevick  | Zanellato   |Zanellato |   [x]    |   [1]    |
 | Rodrigo     | Zanese      |          |   [ ]    |   [ ]    |
 | Daniel      | Bortoli     |          |   [ ]    |   [ ]    |
 | Felipe      | Bosquetto   |          |   [ ]    |   [ ]    |
