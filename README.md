@@ -40,17 +40,17 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 22 | 07 | 14 | Maurício
-| 02 | 18 | 06 |  4 | Albuquerque
+| 02 | 18 | 06 |  3 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 10 | 03 |  4 | Derenevick
-| 06 | 07 | 02 | -7 | Branco
-| 07 | 06 | 02 |  0 | Pedro
-| 08 | 05 | 02 |  2 | Daniel
-| 09 | 06 | 02 |  0 | Rodrigo
-| 10 | 05 | 02 |  1 | Diego
-| 11 | 05 | 02 |  0 | Carlos
-| 12 | 05 | 02 | -4 | Umbelino
+| 06 | 08 | 03 | -3 | Umbelino
+| 07 | 07 | 02 | -7 | Branco
+| 08 | 06 | 02 |  0 | Pedro
+| 09 | 05 | 02 |  2 | Daniel
+| 10 | 06 | 02 |  0 | Rodrigo
+| 11 | 05 | 02 |  1 | Diego
+| 12 | 05 | 02 |  0 | Carlos
 | 13 | 04 | 01 |  1 | Letícia
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
@@ -149,7 +149,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Pedro       | Derenevick  |          |   [ ]    |   [ ]    |
 | Diego       | Leticia     |          |   [ ]    |   [ ]    |
 | Branco      | Ricardo     |          |   [ ]    |   [ ]    |
-| Umbelino    | Albuquerque |          |   [ ]    |   [ ]    |
+| Umbelino    | Albuquerque | Umbelino |   [x]    |   [1]    |
 
 | RODADA 6    | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
