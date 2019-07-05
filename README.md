@@ -39,7 +39,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 25 | 08 | 18 | Maurício
+| 01 | 28 | 09 | 22 | Maurício
 | 02 | 20 | 07 |  3 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
@@ -55,7 +55,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
 | 16 | 01 | 00 |  0 | Ricardo
-| 17 | 01 | 00 | -5 | Felipe
+| 17 | 01 | 00 | -9 | Felipe
 | 18 | 00 | 00 |  0 | Snow
 | 19 | 00 | 00 | -1 | Vidotti
 | 20 | 00 | 00 | -6 | Bortoli (André)
@@ -143,7 +143,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bruno L.    | Cunha       |          |   [ ]    |   [ ]    |
 | Vidotti     | Stella      |          |   [ ]    |   [ ]    |
 | Carlos      | Camargo     |          |   [ ]    |   [ ]    |
-| Mauricio    | Felipe      |          |   [ ]    |   [ ]    |
+| Mauricio    | Felipe      | Mauricio |   [x]    |   [4]    |
 | Beltrame    | Daniel      |          |   [ ]    |   [ ]    |
 | Fernando    | Rodrigo     |          |   [ ]    |   [ ]    |
 | Pedro       | Derenevick  |          |   [ ]    |   [ ]    |
