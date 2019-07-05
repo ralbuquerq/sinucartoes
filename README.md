@@ -47,11 +47,11 @@ if (numeroDeBolasNaMesa > 0) {
 | 06 | 07 | 02 | -7 | Branco
 | 07 | 06 | 02 |  0 | Pedro
 | 08 | 05 | 02 |  2 | Daniel
-| 09 | 05 | 02 |  1 | Diego
-| 10 | 05 | 02 |  0 | Carlos
-| 11 | 04 | 02 | -4 | Umbelino
-| 12 | 04 | 01 |  1 | Letícia
-| 13 | 04 | 01 |  0 | Rodrigo
+| 09 | 06 | 02 |  0 | Rodrigo
+| 10 | 05 | 02 |  1 | Diego
+| 11 | 05 | 02 |  0 | Carlos
+| 12 | 05 | 02 | -4 | Umbelino
+| 13 | 04 | 01 |  1 | Letícia
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
 | 16 | 01 | 00 |  0 | Higor
@@ -116,7 +116,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Pedro       | Higor       |          |   [ ]    |   [ ]    |
 | Diego       | Felipe      |          |   [ ]    |   [ ]    |
 | Branco      | Daniel      |          |   [ ]    |   [ ]    |
-| Umbelino    | Rodrigo     |          |   [ ]    |   [ ]    |
+| Umbelino    | Rodrigo     | Rodrigo  |   [ ]    |   [0]    |
 | Albuquerque | Derenevick  |          |   [ ]    |   [ ]    |
 | Ricardo     | Leticia     |          |   [ ]    |   [ ]    |
 
