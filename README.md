@@ -43,7 +43,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 02 | 20 | 07 |  4 | Albuquerque
 | 03 | 11 | 04 |  2 | Fernando
 | 04 | 10 | 03 |  4 | Derenevick
-| 05 | 07 | 02 | -1 | Beltrame
+| 05 | 10 | 03 |  2 | Beltrame
 | 06 | 06 | 02 |  0 | Pedro
 | 07 | 05 | 02 |  2 | Daniel
 | 08 | 05 | 02 |  1 | Diego
@@ -53,7 +53,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 12 | 03 | 01 |  1 | Zanellato
 | 13 | 03 | 01 |  0 | Rodrigo
 | 14 | 03 | 01 | -7 | Branco
-| 15 | 02 | 01 | -1 | Umbelino
+| 15 | 02 | 01 | -4 | Umbelino
 | 16 | 01 | 00 |  0 | Higor
 | 17 | 01 | 00 |  0 | Ricardo
 | 18 | 00 | 00 | -1 | Vidotti
@@ -196,7 +196,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Vidotti     | Leticia     |          |   [ ]    |   [ ]    |
 | Carlos      | Ricardo     |          |   [ ]    |   [ ]    |
 | Mauricio    | Albuquerque | Mauricio |   [ ]    |   [0]    |
-| Beltrame    | Umbelino    |          |   [ ]    |   [ ]    |
+| Beltrame    | Umbelino    | Beltrame |   [x]    |   [3]    |
 | Fernando    | Branco      | Fernando |   [x]    |   [2]    |
 | Pedro       | Diego       |          |   [ ]    |   [ ]    |
 
