@@ -39,13 +39,13 @@ if (numeroDeBolasNaMesa > 0) {
 
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
-| 01 | 22 | 07 | 14 | Maurício
+| 01 | 25 | 08 | 18 | Maurício
 | 02 | 20 | 07 |  3 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 11 | 04 | -1 | Umbelino
 | 06 | 10 | 03 |  4 | Derenevick
-| 07 | 09 | 03 |  3 | Rodrigo
+| 07 | 09 | 03 | -1 | Rodrigo
 | 08 | 07 | 02 | -7 | Branco
 | 09 | 06 | 02 |  0 | Pedro
 | 10 | 05 | 02 |  2 | Daniel
@@ -160,7 +160,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bruno L.    | Camargo     |          |   [ ]    |   [ ]    |
 | Vidotti     | Felipe      |          |   [ ]    |   [ ]    |
 | Carlos      | Daniel      |          |   [ ]    |   [ ]    |
-| Mauricio    | Rodrigo     |          |   [ ]    |   [ ]    |
+| Mauricio    | Rodrigo     | Mauricio |   [x]    |   [4]    |
 | Beltrame    | Derenevick  |          |   [ ]    |   [ ]    |
 | Fernando    | Leticia     |          |   [ ]    |   [ ]    |
 | Pedro       | Ricardo     |          |   [ ]    |   [ ]    |
