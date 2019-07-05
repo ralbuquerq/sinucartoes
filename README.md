@@ -45,20 +45,20 @@ if (numeroDeBolasNaMesa > 0) {
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 11 | 04 | -1 | Umbelino
 | 06 | 10 | 03 |  4 | Derenevick
-| 07 | 07 | 02 | -7 | Branco
-| 08 | 06 | 02 |  0 | Pedro
-| 09 | 05 | 02 |  2 | Daniel
-| 10 | 06 | 02 |  0 | Rodrigo
+| 07 | 09 | 03 |  3 | Rodrigo
+| 08 | 07 | 02 | -7 | Branco
+| 09 | 06 | 02 |  0 | Pedro
+| 10 | 05 | 02 |  2 | Daniel
 | 11 | 05 | 02 |  1 | Diego
 | 12 | 05 | 02 |  0 | Carlos
 | 13 | 04 | 01 |  1 | Letícia
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
 | 16 | 01 | 00 |  0 | Ricardo
-| 17 | 00 | 00 | -1 | Vidotti
-| 18 | 00 | 00 | -6 | Bortoli (André)
-| 20 | 00 | 00 | -2 | Felipe
-| 19 | 00 | 00 | 00 | Snow
+| 17 | 00 | 00 |  0 | Snow
+| 18 | 00 | 00 | -1 | Vidotti
+| 19 | 00 | 00 | -5 | Felipe
+| 20 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
 | 00 | 00 | 00 | 00 | Bosquetto (Marcio)
@@ -250,7 +250,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 12   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Daniel      |          |   [ ]    |   [ ]    |
-| Felipe      | Rodrigo     |          |   [ ]    |   [ ]    |
+| Felipe      | Rodrigo     | Rodrigo  |   [x]    |   [3]    |
 | Camargo     | Derenevick  |          |   [ ]    |   [ ]    |
 | Stella      | Leticia     |          |   [ ]    |   [ ]    |
 | Cunha       | Ricardo     |          |   [ ]    |   [ ]    |
