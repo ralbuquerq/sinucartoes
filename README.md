@@ -41,18 +41,18 @@ if (numeroDeBolasNaMesa > 0) {
 | -: | -: | -: | -: | -------
 | 01 | 22 | 07 | 14 | Maurício
 | 02 | 20 | 07 |  4 | Albuquerque
-| 03 | 11 | 04 |  2 | Fernando
-| 04 | 10 | 03 |  4 | Derenevick
-| 05 | 10 | 03 |  2 | Beltrame
+| 03 | 12 | 04 |  2 | Beltrame
+| 04 | 11 | 04 |  2 | Fernando
+| 05 | 10 | 03 |  4 | Derenevick
 | 06 | 06 | 02 |  0 | Pedro
 | 07 | 05 | 02 |  2 | Daniel
 | 08 | 05 | 02 |  1 | Diego
 | 09 | 05 | 02 |  0 | Carlos
 | 10 | 04 | 01 |  1 | Letícia
-| 11 | 03 | 01 |  3 | Hunas (Felipe)
-| 12 | 03 | 01 |  1 | Zanellato
-| 13 | 03 | 01 |  0 | Rodrigo
-| 14 | 03 | 01 | -7 | Branco
+| 11 | 04 | 01 | -7 | Branco
+| 12 | 03 | 01 |  3 | Hunas (Felipe)
+| 13 | 03 | 01 |  1 | Zanellato
+| 14 | 03 | 01 |  0 | Rodrigo
 | 15 | 02 | 01 | -4 | Umbelino
 | 16 | 01 | 00 |  0 | Higor
 | 17 | 01 | 00 |  0 | Ricardo
@@ -395,7 +395,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Pedro       |          |   [ ]    |   [ ]    |
 | Diego       | Fernando    |          |   [ ]    |   [ ]    |
-| Branco      | Beltrame    |          |   [ ]    |   [ ]    |
+| Branco      | Beltrame    | Beltrame |   [ ]    |   [0]    |
 | Umbelino    | Mauricio    | Umbelino |   [ ]    |   [0]    |
 | Albuquerque | Carlos      |          |   [ ]    |   [ ]    |
 | Ricardo     | Vidotti     |          |   [ ]    |   [ ]    |
