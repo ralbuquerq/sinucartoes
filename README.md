@@ -40,7 +40,7 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 22 | 07 | 14 | Maurício
-| 02 | 20 | 07 |  4 | Albuquerque
+| 02 | 18 | 06 |  4 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 10 | 03 |  4 | Derenevick
@@ -54,18 +54,17 @@ if (numeroDeBolasNaMesa > 0) {
 | 13 | 04 | 01 |  1 | Letícia
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
-| 16 | 01 | 00 |  0 | Higor
-| 17 | 01 | 00 |  0 | Ricardo
-| 18 | 00 | 00 | -1 | Vidotti
-| 19 | 00 | 00 | -6 | Bortoli (André)
-| 20 | 00 | 00 | 00 | Snow
+| 16 | 01 | 00 |  0 | Ricardo
+| 17 | 00 | 00 | -1 | Vidotti
+| 18 | 00 | 00 | -6 | Bortoli (André)
+| 19 | 00 | 00 | 00 | Snow
 | 00 | 00 | 00 | 00 | Felipe
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
 | 00 | 00 | 00 | 00 | Bosquetto (Marcio)
 | 00 | 00 | 00 | 00 | Zanese (Paulo)
 | 00 | 00 | 00 | 00 | Bruno L.
-
+| 00 | 00 | 00 | 00 | Camargo
 
 ### 1º FASE
 
@@ -83,7 +82,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Diego       | Hunas       |          |   [ ]    |   [ ]    |
 | Branco      | Cunha       |          |   [ ]    |   [ ]    |
 | Umbelino    | Stella      |          |   [ ]    |   [ ]    |
-| Albuquerque | Higor       |Albuquerqu|   [ ]    |   [0]    |
+| Albuquerque | Camargo     |          |   [ ]    |   [ ]    |
 | Ricardo     | Felipe      |          |   [ ]    |   [ ]    |
 | Leticia     | Daniel      |          |   [ ]    |   [ ]    |
 | Derenevick  | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -98,7 +97,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Fernando    | Hunas       |          |   [ ]    |   [ ]    |
 | Pedro       | Cunha       |          |   [ ]    |   [ ]    |
 | Diego       | Stella      |          |   [ ]    |   [ ]    |
-| Branco      | Higor       |          |   [ ]    |   [ ]    |
+| Branco      | Camargo     |          |   [ ]    |   [ ]    |
 | Umbelino    | Felipe      |          |   [ ]    |   [ ]    |
 | Albuquerque | Daniel      | Daniel   |   [ ]    |   [0]    |
 | Ricardo     | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -113,7 +112,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Mauricio    | Hunas       | Mauricio |   [x]    |   [3]    |
 | Beltrame    | Cunha       |          |   [ ]    |   [ ]    |
 | Fernando    | Stella      |          |   [ ]    |   [ ]    |
-| Pedro       | Higor       |          |   [ ]    |   [ ]    |
+| Pedro       | Camargo     |          |   [ ]    |   [ ]    |
 | Diego       | Felipe      |          |   [ ]    |   [ ]    |
 | Branco      | Daniel      |          |   [ ]    |   [ ]    |
 | Umbelino    | Rodrigo     | Rodrigo  |   [ ]    |   [0]    |
@@ -128,7 +127,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Vidotti     | Hunas       |          |   [ ]    |   [ ]    |
 | Carlos      | Cunha       |          |   [ ]    |   [ ]    |
 | Mauricio    | Stella      |          |   [ ]    |   [ ]    |
-| Beltrame    | Higor       |          |   [ ]    |   [ ]    |
+| Beltrame    | Camargo     |          |   [ ]    |   [ ]    |
 | Fernando    | Felipe      |          |   [ ]    |   [ ]    |
 | Pedro       | Daniel      |          |   [ ]    |   [ ]    |
 | Diego       | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -143,7 +142,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Zanellato   | Hunas       |          |   [ ]    |   [ ]    |
 | Bruno L.    | Cunha       |          |   [ ]    |   [ ]    |
 | Vidotti     | Stella      |          |   [ ]    |   [ ]    |
-| Carlos      | Higor       |          |   [ ]    |   [ ]    |
+| Carlos      | Camargo     |          |   [ ]    |   [ ]    |
 | Mauricio    | Felipe      |          |   [ ]    |   [ ]    |
 | Beltrame    | Daniel      |          |   [ ]    |   [ ]    |
 | Fernando    | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -158,7 +157,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bortoli     | Hunas       |          |   [ ]    |   [ ]    |
 | Zanese      | Cunha       |          |   [ ]    |   [ ]    |
 | Zanellato   | Stella      |          |   [ ]    |   [ ]    |
-| Bruno L.    | Higor       |          |   [ ]    |   [ ]    |
+| Bruno L.    | Camargo     |          |   [ ]    |   [ ]    |
 | Vidotti     | Felipe      |          |   [ ]    |   [ ]    |
 | Carlos      | Daniel      |          |   [ ]    |   [ ]    |
 | Mauricio    | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -173,7 +172,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Hunas       |          |   [ ]    |   [ ]    |
 | Bosquetto   | Cunha       |          |   [ ]    |   [ ]    |
 | Bortoli     | Stella      |          |   [ ]    |   [ ]    |
-| Zanese      | Higor       |          |   [ ]    |   [ ]    |
+| Zanese      | Camargo     |          |   [ ]    |   [ ]    |
 | Zanellato   | Felipe      |          |   [ ]    |   [ ]    |
 | Bruno L.    | Daniel      |          |   [ ]    |   [ ]    |
 | Vidotti     | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -188,7 +187,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Cunha       |          |   [ ]    |   [ ]    |
 | Hunas       | Stella      |          |   [ ]    |   [ ]    |
-| Bosquetto   | Higor       |          |   [ ]    |   [ ]    |
+| Bosquetto   | Camargo     |          |   [ ]    |   [ ]    |
 | Bortoli     | Felipe      |          |   [ ]    |   [ ]    |
 | Zanese      | Daniel      |          |   [ ]    |   [ ]    |
 | Zanellato   | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -203,7 +202,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 9    | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Stella      |          |   [ ]    |   [ ]    |
-| Cunha       | Higor       |          |   [ ]    |   [ ]    |
+| Cunha       | Camargo     |          |   [ ]    |   [ ]    |
 | Hunas       | Felipe      |          |   [ ]    |   [ ]    |
 | Bosquetto   | Daniel      |          |   [ ]    |   [ ]    |
 | Bortoli     | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -218,7 +217,7 @@ if (numeroDeBolasNaMesa > 0) {
 
 | RODADA 10   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
-| Snow        | Higor       |          |   [ ]    |   [ ]    |
+| Snow        | Camargo     |          |   [ ]    |   [ ]    |
 | Stella      | Felipe      |          |   [ ]    |   [ ]    |
 | Cunha       | Daniel      |          |   [ ]    |   [ ]    |
 | Hunas       | Rodrigo     |          |   [ ]    |   [ ]    |
@@ -235,7 +234,7 @@ if (numeroDeBolasNaMesa > 0) {
 | RODADA 11   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Felipe      |          |   [ ]    |   [ ]    |
-| Higor       | Daniel      |          |   [ ]    |   [ ]    |
+| Camargo     | Daniel      |          |   [ ]    |   [ ]    |
 | Stella      | Rodrigo     |          |   [ ]    |   [ ]    |
 | Cunha       | Derenevick  |          |   [ ]    |   [ ]    |
 | Hunas       | Leticia     |          |   [ ]    |   [ ]    |
@@ -252,7 +251,7 @@ if (numeroDeBolasNaMesa > 0) {
 | ----------- | ----------- | -------- | :------: | :------: |
 | Snow        | Daniel      |          |   [ ]    |   [ ]    |
 | Felipe      | Rodrigo     |          |   [ ]    |   [ ]    |
-| Higor       | Derenevick  |          |   [ ]    |   [ ]    |
+| Camargo     | Derenevick  |          |   [ ]    |   [ ]    |
 | Stella      | Leticia     |          |   [ ]    |   [ ]    |
 | Cunha       | Ricardo     |          |   [ ]    |   [ ]    |
 | Hunas       | Albuquerque | Hunas    |   [x]    |   [3]    |
@@ -269,7 +268,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Rodrigo     |          |   [ ]    |   [ ]    |
 | Daniel      | Derenevick  |          |   [ ]    |   [ ]    |
 | Felipe      | Leticia     |          |   [ ]    |   [ ]    |
-| Higor       | Ricardo     |          |   [ ]    |   [ ]    |
+| Camargo     | Ricardo     |          |   [ ]    |   [ ]    |
 | Stella      | Albuquerque |          |   [ ]    |   [ ]    |
 | Cunha       | Umbelino    |          |   [ ]    |   [ ]    |
 | Hunas       | Branco      |          |   [ ]    |   [ ]    |
@@ -286,7 +285,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Leticia     |          |   [ ]    |   [ ]    |
 | Daniel      | Ricardo     |          |   [ ]    |   [ ]    |
 | Felipe      | Albuquerque |          |   [ ]    |   [ ]    |
-| Higor       | Umbelino    |          |   [ ]    |   [ ]    |
+| Camargo     | Umbelino    |          |   [ ]    |   [ ]    |
 | Stella      | Branco      |          |   [ ]    |   [ ]    |
 | Cunha       | Diego       |          |   [ ]    |   [ ]    |
 | Hunas       | Pedro       |          |   [ ]    |   [ ]    |
@@ -310,6 +309,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bortoli     | Carlos      |          |   [ ]    |   [ ]    |
 | Zanese      | Vidotti     |          |   [ ]    |   [ ]    |
 | Zanellato   | Bruno L.    |          |   [ ]    |   [ ]    |
+| Felipe      | Camargo     |          |   [ ]    |   [ ]    |
 
 | RODADA 16   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
@@ -319,7 +319,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Branco      | Branco   |   [ ]    |   [0]    |
 | Daniel      | Diego       |          |   [ ]    |   [ ]    |
 | Felipe      | Pedro       |          |   [ ]    |   [ ]    |
-| Higor       | Fernando    |          |   [ ]    |   [ ]    |
+| Camargo     | Fernando    |          |   [ ]    |   [ ]    |
 | Stella      | Beltrame    |          |   [ ]    |   [ ]    |
 | Cunha       | Mauricio    |          |   [ ]    |   [ ]    |
 | Hunas       | Carlos      |          |   [ ]    |   [ ]    |
@@ -336,7 +336,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Pedro       |          |   [ ]    |   [ ]    |
 | Daniel      | Fernando    |          |   [ ]    |   [ ]    |
 | Felipe      | Beltrame    |          |   [ ]    |   [ ]    |
-| Higor       | Mauricio    |          |   [ ]    |   [ ]    |
+| Camargo     | Mauricio    |          |   [ ]    |   [ ]    |
 | Stella      | Carlos      |          |   [ ]    |   [ ]    |
 | Cunha       | Vidotti     |          |   [ ]    |   [ ]    |
 | Hunas       | Bruno L.    |          |   [ ]    |   [ ]    |
@@ -353,7 +353,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Beltrame    | Beltrame |   [x]    |   [1]    |
 | Daniel      | Mauricio    | Daniel   |   [x]    |   [2]    |
 | Felipe      | Carlos      |          |   [ ]    |   [ ]    |
-| Higor       | Vidotti     |          |   [ ]    |   [ ]    |
+| Camargo     | Vidotti     |          |   [ ]    |   [ ]    |
 | Stella      | Bruno L.    |          |   [ ]    |   [ ]    |
 | Cunha       | Zanellato   |          |   [ ]    |   [ ]    |
 | Hunas       | Zanese      |          |   [ ]    |   [ ]    |
@@ -370,7 +370,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Carlos      |          |   [ ]    |   [ ]    |
 | Daniel      | Vidotti     |          |   [ ]    |   [ ]    |
 | Felipe      | Bruno L.    |          |   [ ]    |   [ ]    |
-| Higor       | Zanellato   |          |   [ ]    |   [ ]    |
+| Camargo     | Zanellato   |          |   [ ]    |   [ ]    |
 | Stella      | Zanese      |          |   [ ]    |   [ ]    |
 | Cunha       | Bortoli     |          |   [ ]    |   [ ]    |
 | Hunas       | Bosquetto   |          |   [ ]    |   [ ]    |
@@ -387,7 +387,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Bruno L.    |          |   [ ]    |   [ ]    |
 | Daniel      | Zanellato   |          |   [ ]    |   [ ]    |
 | Felipe      | Zanese      |          |   [ ]    |   [ ]    |
-| Higor       | Bortoli     |          |   [ ]    |   [ ]    |
+| Camargo     | Bortoli     |          |   [ ]    |   [ ]    |
 | Stella      | Bosquetto   |          |   [ ]    |   [ ]    |
 | Cunha       | Hunas       |          |   [ ]    |   [ ]    |
 
@@ -404,7 +404,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Zanese      |          |   [ ]    |   [ ]    |
 | Daniel      | Bortoli     |          |   [ ]    |   [ ]    |
 | Felipe      | Bosquetto   |          |   [ ]    |   [ ]    |
-| Higor       | Hunas       |          |   [ ]    |   [ ]    |
+| Camargo     | Hunas       |          |   [ ]    |   [ ]    |
 | Stella      | Cunha       |          |   [ ]    |   [ ]    |
 
 | RODADA 22   | ----------- | -------- | ---------| ---------|
@@ -421,7 +421,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Rodrigo     | Bosquetto   |          |   [ ]    |   [ ]    |
 | Daniel      | Hunas       |          |   [ ]    |   [ ]    |
 | Felipe      | Cunha       |          |   [ ]    |   [ ]    |
-| Higor       | Stella      |          |   [ ]    |   [ ]    |
+| Camargo     | Stella      |          |   [ ]    |   [ ]    |
 
 | RODADA 23   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
@@ -437,7 +437,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Derenevick  | Hunas       |          |   [ ]    |   [ ]    |
 | Rodrigo     | Cunha       |          |   [ ]    |   [ ]    |
 | Daniel      | Stella      |          |   [ ]    |   [ ]    |
-| Felipe      | Higor       |          |   [ ]    |   [ ]    |
+| Felipe      | Camargo     |          |   [ ]    |   [ ]    |
 
 | RODADA 24   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
@@ -452,7 +452,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Ricardo     | Hunas       |          |   [ ]    |   [ ]    |
 | Leticia     | Cunha       |          |   [ ]    |   [ ]    |
 | Derenevick  | Stella      |          |   [ ]    |   [ ]    |
-| Rodrigo     | Higor       |          |   [ ]    |   [ ]    |
+| Rodrigo     | Camargo     |          |   [ ]    |   [ ]    |
 | Daniel      | Felipe      |          |   [ ]    |   [ ]    |
 
 | RODADA 25   | ----------- | -------- | ---------| ---------|
@@ -467,7 +467,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Umbelino    | Hunas       |          |   [ ]    |   [ ]    |
 | Albuquerque | Cunha       |          |   [ ]    |   [ ]    |
 | Ricardo     | Stella      |          |   [ ]    |   [ ]    |
-| Leticia     | Higor       |          |   [ ]    |   [ ]    |
+| Leticia     | Camargo     |          |   [ ]    |   [ ]    |
 | Derenevick  | Felipe      |          |   [ ]    |   [ ]    |
 | Rodrigo     | Daniel      |          |   [ ]    |   [ ]    |
 
