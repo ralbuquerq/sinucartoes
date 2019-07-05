@@ -44,16 +44,16 @@ if (numeroDeBolasNaMesa > 0) {
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 10 | 03 |  4 | Derenevick
-| 06 | 06 | 02 |  0 | Pedro
-| 07 | 05 | 02 |  2 | Daniel
-| 08 | 05 | 02 |  1 | Diego
-| 09 | 05 | 02 |  0 | Carlos
-| 10 | 05 | 01 | -7 | Branco
+| 06 | 07 | 02 | -7 | Branco
+| 07 | 06 | 02 |  0 | Pedro
+| 08 | 05 | 02 |  2 | Daniel
+| 09 | 05 | 02 |  1 | Diego
+| 10 | 05 | 02 |  0 | Carlos
 | 11 | 04 | 02 | -4 | Umbelino
 | 12 | 04 | 01 |  1 | Letícia
-| 13 | 03 | 01 |  3 | Hunas (Felipe)
-| 14 | 03 | 01 |  1 | Zanellato
-| 15 | 03 | 01 |  0 | Rodrigo
+| 13 | 04 | 01 |  0 | Rodrigo
+| 14 | 03 | 01 |  3 | Hunas (Felipe)
+| 15 | 03 | 01 |  1 | Zanellato
 | 16 | 01 | 00 |  0 | Higor
 | 17 | 01 | 00 |  0 | Ricardo
 | 18 | 00 | 00 | -1 | Vidotti
@@ -316,7 +316,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Ricardo     |          |   [ ]    |   [ ]    |
 | Leticia     | Albuquerque |          |   [ ]    |   [ ]    |
 | Derenevick  | Umbelino    |          |   [ ]    |   [ ]    |
-| Rodrigo     | Branco      |          |   [ ]    |   [ ]    |
+| Rodrigo     | Branco      | Branco   |   [ ]    |   [0]    |
 | Daniel      | Diego       |          |   [ ]    |   [ ]    |
 | Felipe      | Pedro       |          |   [ ]    |   [ ]    |
 | Higor       | Fernando    |          |   [ ]    |   [ ]    |
