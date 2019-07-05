@@ -40,7 +40,7 @@ if (numeroDeBolasNaMesa > 0) {
 | C  | PT | VT | GP | Jogador
 | -: | -: | -: | -: | -------
 | 01 | 22 | 07 | 14 | Maurício
-| 02 | 18 | 06 |  3 | Albuquerque
+| 02 | 20 | 07 |  3 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
 | 05 | 11 | 04 | -1 | Umbelino
@@ -55,9 +55,9 @@ if (numeroDeBolasNaMesa > 0) {
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
 | 16 | 01 | 00 |  0 | Ricardo
-| 17 | 00 | 00 |  0 | Snow
-| 18 | 00 | 00 | -1 | Vidotti
-| 19 | 00 | 00 | -5 | Felipe
+| 17 | 01 | 00 | -5 | Felipe
+| 18 | 00 | 00 |  0 | Snow
+| 19 | 00 | 00 | -1 | Vidotti
 | 20 | 00 | 00 | -6 | Bortoli (André)
 | 00 | 00 | 00 | 00 | Stella
 | 00 | 00 | 00 | 00 | Cunha (Bruno)
@@ -284,7 +284,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Derenevick  |          |   [ ]    |   [ ]    |
 | Rodrigo     | Leticia     |          |   [ ]    |   [ ]    |
 | Daniel      | Ricardo     |          |   [ ]    |   [ ]    |
-| Felipe      | Albuquerque |          |   [ ]    |   [ ]    |
+| Felipe      | Albuquerque |Albuquerqu|   [ ]    |   [0]    |
 | Camargo     | Umbelino    |          |   [ ]    |   [ ]    |
 | Stella      | Branco      |          |   [ ]    |   [ ]    |
 | Cunha       | Diego       |          |   [ ]    |   [ ]    |
