@@ -43,8 +43,8 @@ if (numeroDeBolasNaMesa > 0) {
 | 02 | 18 | 06 |  3 | Albuquerque
 | 03 | 12 | 04 |  2 | Beltrame
 | 04 | 11 | 04 |  2 | Fernando
-| 05 | 10 | 03 |  4 | Derenevick
-| 06 | 11 | 04 | -1 | Umbelino
+| 05 | 11 | 04 | -1 | Umbelino
+| 06 | 10 | 03 |  4 | Derenevick
 | 07 | 07 | 02 | -7 | Branco
 | 08 | 06 | 02 |  0 | Pedro
 | 09 | 05 | 02 |  2 | Daniel
