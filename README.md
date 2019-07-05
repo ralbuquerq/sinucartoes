@@ -48,12 +48,12 @@ if (numeroDeBolasNaMesa > 0) {
 | 07 | 05 | 02 |  2 | Daniel
 | 08 | 05 | 02 |  1 | Diego
 | 09 | 05 | 02 |  0 | Carlos
-| 10 | 04 | 01 |  1 | Letícia
-| 11 | 04 | 01 | -7 | Branco
-| 12 | 03 | 01 |  3 | Hunas (Felipe)
-| 13 | 03 | 01 |  1 | Zanellato
-| 14 | 03 | 01 |  0 | Rodrigo
-| 15 | 02 | 01 | -4 | Umbelino
+| 10 | 05 | 01 | -7 | Branco
+| 11 | 04 | 02 | -4 | Umbelino
+| 12 | 04 | 01 |  1 | Letícia
+| 13 | 03 | 01 |  3 | Hunas (Felipe)
+| 14 | 03 | 01 |  1 | Zanellato
+| 15 | 03 | 01 |  0 | Rodrigo
 | 16 | 01 | 00 |  0 | Higor
 | 17 | 01 | 00 |  0 | Ricardo
 | 18 | 00 | 00 | -1 | Vidotti
@@ -166,7 +166,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Fernando    | Leticia     |          |   [ ]    |   [ ]    |
 | Pedro       | Ricardo     |          |   [ ]    |   [ ]    |
 | Diego       | Albuquerque |          |   [ ]    |   [ ]    |
-| Branco      | Umbelino    |          |   [ ]    |   [ ]    |
+| Branco      | Umbelino    | Umbelino |   [ ]    |   [0]    |
 
 | RODADA 7    | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
