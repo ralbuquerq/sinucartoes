@@ -41,14 +41,14 @@ if (numeroDeBolasNaMesa > 0) {
 | -: | -: | -: | -: | -------
 | 01 | 28 | 09 | 22 | Maurício
 | 02 | 20 | 07 |  3 | Albuquerque
-| 03 | 12 | 04 |  2 | Beltrame
-| 04 | 11 | 04 |  2 | Fernando
+| 03 | 14 | 05 |  4 | Fernando
+| 04 | 12 | 04 |  2 | Beltrame
 | 05 | 11 | 04 | -1 | Umbelino
 | 06 | 10 | 03 |  4 | Derenevick
 | 07 | 09 | 03 | -1 | Rodrigo
 | 08 | 09 | 03 | -7 | Branco
 | 09 | 06 | 02 |  0 | Pedro
-| 10 | 05 | 02 |  2 | Daniel
+| 10 | 05 | 02 |  0 | Daniel
 | 11 | 05 | 02 |  1 | Diego
 | 12 | 05 | 02 |  0 | Carlos
 | 13 | 04 | 01 |  1 | Letícia
@@ -334,7 +334,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Leticia     | Branco      | Branco   |   [ ]    |   [0]    |
 | Derenevick  | Diego       | Diego    |   [ ]    |   [0]    |
 | Rodrigo     | Pedro       |          |   [ ]    |   [ ]    |
-| Daniel      | Fernando    |          |   [ ]    |   [ ]    |
+| Daniel      | Fernando    | Fernando |   [x]    |   [2]    |
 | Felipe      | Beltrame    |          |   [ ]    |   [ ]    |
 | Camargo     | Mauricio    |          |   [ ]    |   [ ]    |
 | Stella      | Carlos      |          |   [ ]    |   [ ]    |
