@@ -43,12 +43,12 @@ if (numeroDeBolasNaMesa > 0) {
 | 02 | 20 | 07 |  3 | Albuquerque
 | 03 | 14 | 05 |  4 | Fernando
 | 04 | 12 | 04 |  2 | Beltrame
-| 05 | 11 | 04 | -1 | Umbelino
+| 05 | 11 | 04 | -2 | Umbelino
 | 06 | 10 | 03 |  4 | Derenevick
 | 07 | 09 | 03 | -1 | Rodrigo
 | 08 | 09 | 03 | -7 | Branco
-| 09 | 06 | 02 |  0 | Pedro
-| 10 | 05 | 02 |  0 | Daniel
+| 09 | 08 | 03 |  1 | Daniel
+| 10 | 06 | 02 |  0 | Pedro
 | 11 | 05 | 02 |  1 | Diego
 | 12 | 05 | 02 |  0 | Carlos
 | 13 | 04 | 01 |  1 | Letícia
@@ -300,7 +300,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Snow        | Leticia     | Leticia  |   [x]    |   [1]    |
 | Derenevick  | Ricardo     |          |   [ ]    |   [ ]    |
 | Rodrigo     | Albuquerque | Rodrigo  |   [x]    |   [1]    |
-| Daniel      | Umbelino    |          |   [ ]    |   [ ]    |
+| Daniel      | Umbelino    | Daniel   |   [x]    |   [1]    |
 | Stella      | Pedro       |          |   [ ]    |   [ ]    |
 | Branco      | Diego       |          |   [ ]    |   [ ]    |
 | Cunha       | Fernando    |          |   [ ]    |   [ ]    |
