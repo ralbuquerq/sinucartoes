@@ -46,7 +46,7 @@ if (numeroDeBolasNaMesa > 0) {
 | 05 | 11 | 04 | -1 | Umbelino
 | 06 | 10 | 03 |  4 | Derenevick
 | 07 | 09 | 03 | -1 | Rodrigo
-| 08 | 07 | 02 | -7 | Branco
+| 08 | 09 | 03 | -7 | Branco
 | 09 | 06 | 02 |  0 | Pedro
 | 10 | 05 | 02 |  2 | Daniel
 | 11 | 05 | 02 |  1 | Diego
@@ -54,8 +54,8 @@ if (numeroDeBolasNaMesa > 0) {
 | 13 | 04 | 01 |  1 | Letícia
 | 14 | 03 | 01 |  3 | Hunas (Felipe)
 | 15 | 03 | 01 |  1 | Zanellato
-| 16 | 01 | 00 |  0 | Ricardo
-| 17 | 01 | 00 | -9 | Felipe
+| 16 | 02 | 00 | -9 | Felipe
+| 17 | 01 | 00 |  0 | Ricardo
 | 18 | 00 | 00 |  0 | Snow
 | 19 | 00 | 00 | -1 | Vidotti
 | 20 | 00 | 00 | -6 | Bortoli (André)
@@ -309,7 +309,7 @@ if (numeroDeBolasNaMesa > 0) {
 | Bortoli     | Carlos      |          |   [ ]    |   [ ]    |
 | Zanese      | Vidotti     |          |   [ ]    |   [ ]    |
 | Zanellato   | Bruno L.    |          |   [ ]    |   [ ]    |
-| Felipe      | Camargo     |          |   [ ]    |   [ ]    |
+| Felipe      | Branco      | Branco   |   [ ]    |   [0]    |
 
 | RODADA 16   | ----------- | -------- | ---------| ---------|
 | ----------- | ----------- | -------- | :------: | :------: |
